@@ -1,0 +1,1114 @@
+obs_id,month,year,district,IRN,leaid,county,purpose,for,against,mills_pct,years,amount,new,type
+2807,2,2009,Conneaut Area City School District,43497,#REF!,ASHTABULA,to provide for the emergency requirements of the school district,1616,1691,8.46,5,,additional,levy
+2808,2,2009,Brown Local School District,43513,3904349,CARROLL,to avoid an operating deficit,420,460,4.5,10,,renewal,levy
+2809,2,2009,Williamsburg Local School District,43612,3904349,CLERMONT,to avoid an operating deficit,442,501,6.4,5,,renewal,levy
+2810,2,2009,Beaver Local School District,43638,3904349,COLUMBIANA,to provide for the emergency requirements of the school district,1001,669,5.3,5,,renewal,levy
+2811,2,2009,Olmsted Falls City School District,43661,3904365,CUYAHOGA,for current expenses,1795,3145,9.9,100,,additional,levy
+2812,2,2009,Newbury Local School District,43679,3904365,GE8A,to provide for the emergency requirements of the school district,994,850,6.72,10,,additional,levy
+2813,2,2009,Mt. Healthy City School District,43695,3904365,HAMILTON,for current operating expenses,467,1314,7.95,100,,additional,levy
+2814,2,2009,St. Bernard-Elmwood City School District,43836,3904365,HAMILTON,to provide for the emergency requirements of the school district,401,270,7.71,10,,renewal,levy
+2815,2,2009,Wellington Exempted Village School District,43869,3904365,LORAIN,to acquire construct enlarge re11ate & finance general permanent improvements,1002,1727,0.5,100,,additional,levy
+2816,2,2009,Field Local School District,43885,3904365,PORTAGE,for current operating expenses,1206,1544,7.3,5,,replacement,levy
+2817,2,2009,Bellevue City School District,43968,3904365,SANDUSKY,to provide for the emergency requirements of the school district,881,1569,3.75,10,,additional,levy
+2818,2,2009,Jackson Local School District,43984,3904365,STARK,to provide for the emergency requirements of the school district,4954,4653,4.9,5,,additional,levy
+2819,2,2009,Lake Local School District,44040,3904365,STARK,to acquire construct enlarge re11ate & finance general permanent improvements,1621,3795,0.5,100,,additional,levy
+2820,2,2009,Minerva Local School District,44099,3904365,STARK,to provide for the emergency requirements of the school district,517,1777,5.6,5,,additional,levy
+2821,2,2009,Northwest Local School District,44180,3904368,STARK,to provide for the emergency requirements of the school district,2137,2527,12.8,10,,additional,levy
+2822,2,2009,Lakeview Local School District,44206,3904368,TRUMBULL,to provide for the emergency requirements of the school district,1669,953,3.15,5,,renewal,levy
+2823,2,2009,Wayne Local School District,44222,3904368,WARREN,,1378,992, Fix,,,renewal,levy
+2824,5,2009,Allen East Local School District,44255,3904368,ALLEN,to re11ate remodel & improve sites & facilities & purchase equipment & school buses for school purposes,284,199,2.75,5,,renewal,levy
+2825,5,2009,Bath Local School District,#N/A,#N/A,ALLEN,to provide for the emergency requirements of the school district,1115,584,12.1,5,,renewal,levy
+2826,5,2009,Bluffton Exempted School District,#N/A,#N/A,ALLEN,to avoid an operating deficit,845,351,3.44,5,,renewal,levy
+2827,5,2009,Delphos City School District,#N/A,#N/A,ALLEN,to improve construct reconstruct re11ate & remodel buildings & facilities; acquire furnishings & equipment & improve sites for school purposes,484,197,2.25,5,,renewal,levy
+2828,5,2009,Delphos City School District,45534,3904553,ALLEN,for current expenses,482,196,5.5,5,,renewal,levy
+2829,5,2009,Perry Local School District,44438,3904368,ALLEN,to avoid an operating deficit,207,71,4.49,5,,renewal,levy
+2830,5,2009,Ashtabula County Joint Vocational School District,44438,3904368,ASHTABULA,for general permanent improvements,4276,4469,1,100,,additional,levy
+2831,5,2009,Geneva Area City School District,44495,3904368,ASHTABULA,for general permanent improvements,897,604,0.85,5,,renewal,levy
+2832,5,2009,Jefferson Area Local School District,44560,3904368,ASHTABULA,for current operating expenses,706,629,5,5,,renewal,levy
+2833,5,2009,St. 3ys City School District,44586,3901572,8LAIZE,to provide for the emergency requirements of the school district,981,795,7.9,5,,renewal,levy
+2834,5,2009,Shadyside Local School District,44636,3901572,BELMONT,to provide for the emergency requirements of the school district,399,404,5.4,3,,renewal,levy
+2835,5,2009,Brown Local School District,44677,3901572,CARROLL,to avoid an operating deficit,708,492,4.5,10,,renewal,levy
+2836,5,2009,Graham Local School District,44701,3901572,CHAMPAIGN,for permanent improvement of property & to acquire transportation equipment,795,553,1.5,5,,renewal,levy
+2837,5,2009,Bethel-Tate Local School District,47381,3904351,CLERMONT,to provide for the emergency requirements of the school district,919,1516,5.9,5,,additional,levy
+2838,5,2009,West Clermont Local School District,44842,3901572,CLERMONT,to provide for the necessary requirements of the school district,9160,2759,6.91,100,,substitute,levy
+2839,5,2009,Williamsburg Local School District,44891,3901572,CLERMONT,to avoid an operating deficit,909,797,6.4,5,,renewal,levy
+2840,5,2009,Leetonia Exempted Village School District,44990,3901572,COLUMBIANA,to avoid an operating deficit,610,702,8.8,5,,additional,levy
+2841,5,2009,Wynford Local School District,45047,3904504,CRAWFORD,to avoid an operating deficit,887,285,2.79,3,,renewal,levy
+2842,5,2009,Wynford Local School District,45104,3904504,CRAWFORD,for current operating expenses,899,277,6.9,3,,renewal,levy
+2843,5,2009,Bedford City School District,45146,3904504,CUYAHOGA,for current expenses,3144,2747,4.9,100,,additional,levy
+2844,5,2009,Brooklyn City School District,45187,3904504,CUYAHOGA,to avoid an operating deficit,1709,1215,5.7,5,,renewal,levy
+2845,5,2009,North Royalton City School District,46714,3904414,CUYAHOGA,to provide for the emergency requirements of the school district,6171,5721,6.2,10,,additional,levy
+2846,5,2009,Parma City School District,45310,3904504,CUYAHOGA,for current expenses,9023,16507,5.5,100,,additional,levy
+2847,5,2009,Warrensville Heights City School District,45344,3904504,CUYAHOGA,to provide for the emergency requirements of the school district,1321,781,5.1,5,,renewal,levy
+2848,5,2009,Greenville City School District,45526,3904504,DARKE,to provide for the emergency requirements of the school district,2443,2200,3.9,3,,additional,levy
+2849,5,2009,Ayersville Local School District,45609,3904436,DEFIANCE,for general permanent improvements,344,380,2,5,,renewal,levy
+2850,5,2009,Delaware City School District,45609,3904436,DELAWARE,for permanent improvements,2874,1244,3,5,,renewal,levy
+2851,5,2009,Berlin-Milan Local School District,45633,3904436,ERIE,to provide for the emergency requirements of the school district,1302,724,3.5,10,,renewal,levy
+2852,5,2009,Margaretta Local School District,45757,3904436,ERIE,to provide for the emergency requirements of the school district,664,1110,7.85,5,,additional,levy
+2853,5,2009,Vermilion Local School District,45765,3904436,ERIE,to provide for the emergency requirements of the school district,730,1427,5.3,2,,additional,levy
+2854,5,2009,Canal Winchester Local School District,45864,3904436,FRANKLIN,to provide for the emergency requirements of the school district,2442,2219,14.82,2,,additional,levy
+2855,5,2009,Groveport Madison Local School District,45872,3904436,FRANKLIN,,2203,1963,9.36,3,,renewal & increase,levy
+2856,5,2009,Reynoldsburg City School District,45872,3904436,FRANKLIN,for current operating expenses,4189,4684,15.6,100,,additional,levy
+2857,5,2009,South-Western City School District,45955,3904436,FRANKLIN,for current operating expenses,10642,13284,8.3,4,,additional,levy
+2858,5,2009,Westerville City School District,46425,3904414,FRANKLIN,for permanent improvements,7382,3877,2.7,100,,renewal,levy
+2859,5,2009,Worthington City School District,46524,3904414,FRANKLIN,for current operating expenses,3681,5378,7.4,100,,additional,levy
+2860,5,2009,Archbold Area School District,46524,3904414,FULTON,for current expenses of the Archbold Community Library,345,111,0.4,5,,renewal,levy
+2861,5,2009,Wauseon Village Exempted School District,46557,3904414,FULTON,for general permanent improvements,455,222,1,100,,renewal,levy
+2862,5,2009,Sugarcreek Local School District,46680,3904414,GREENE,for current operating expenses,3106,1234,9,100,,renewal,levy
+2863,5,2009,Xenia City Community School District,46706,3904414,GREENE,for permanent improvements,3032,4171,0.5,100,,additional,levy
+2864,5,2009,Forest Hills Local School District,46714,3904414,HAMILTON,for current operating expenses,5563,6862,6.9,100,,additional,levy
+2865,5,2009,Sycamore Community City School District,46714,3904414,HAMILTON,current operating expenses,4617,1649,5.5,100,,renewal,levy
+2866,5,2009,Winton Woods City School District,46920,3904414,HAMILTON,for current operating expenses,1907,2335,7.95,100,,additional,levy
+2867,5,2009,Arcadia Local School District,47050,3904414,HANCOCK,to avoid an operating deficit,367,260,4.2,3,,renewal,levy
+2868,5,2009,Liberty-Benton Local School District,47092,3904414,HANCOCK,to provide for the emergency requirements of the school district,1299,544,4.4,10,,renewal,levy
+2869,5,2009,Liberty-Benton Local School District,47225,3904722,HANCOCK,to provide for the emergency requirements of the school district,961,861,4.6,10,,additional,levy
+2870,5,2009,Van Buren Local School District,47241,3904351,HANCOCK,for current operating expenses & to acquire construct enlarge re11ate & finance permanent improvements,648,372,6,5,,renewal,levy
+2871,5,2009,Vanlue Local School District,47340,3904351,HANCOCK,to provide for the emergency requirements of the school district,196,165,10.6,10,,renewal,levy
+2872,5,2009,Holgate Local School District,47415,3904351,HENRY,to construct acquire re11ate remodel or equip school facilities or sites,165,102,2,5,,renewal,levy
+2873,5,2009,East Holmes Local School District,47415,3904351,HOLMES,to provide for the emergency requirements of the school district,412,78,1.49,10,,renewal,levy
+2874,5,2009,Mount Vernon City School District,47464,3904743,KNOX,to provide for the emergency requirements of the school district,1751,1124,2.11,5,,renewal,levy
+2875,5,2009,Kirtland Local School District,47506,3904743,LAKE,to provide of the emergency requirements of the school district,600,331,4.06,5,,renewal,levy
+2876,5,2009,Riverside Local School District,47597,3904743,LAKE,to provide for the necessary requirements of the school district,2197,1152,3.84,5,,substitute,levy
+2877,5,2009,Willoughby-Eastlake City School District,47621,3904743,LAKE,to provide for the emergency requirements of the school district. If not approved any remaining tax  on any of the above 2 existing levies will not be collected after tax year 2008.,3144,1479,3.81,10,,(renewal)|of 2 existing levies,levy
+2878,5,2009,Johnstown-Monroe Local School District,47688,3904743,LICKING,to provide for the emergency requirements of the school district,2047,1309,9.6,5,,additional,levy
+2879,5,2009,Newark City School District,47688,3904743,LICKING,to provide for the emergency requirements of the school district,5205,4937,7.5,5,,additional,levy
+2880,5,2009,Northridge Local School District,47803,3904743,LICKING,to provide for the emergency requirements of the school district,1512,1492,9.9,5,,additional,levy
+2881,5,2009,Southwest Licking Local School District,48116,3904743,LICKING,for general permanent improvements,2163,2016,2.8,100,,replacement,levy
+2882,5,2009,Sheffield-Sheffield Lake City School District,48116,3904743,LORAIN,to provide for the emergency requirements of the school district,1022,462,5.48,5,,renewal,levy
+2883,5,2009,Sheffield-Sheffield Lake City School District,48173,3904743,LORAIN,to provide for the emergency requirements of the school district,1038,453,6.66,5,,renewal,levy
+2884,5,2009,Maumee City School District,48348,3904743,LUCAS,for current operating expenses,1990,1529,3.9,100,,additional,levy
+2885,5,2009,Springfield Local School District,48348,3904743,LUCAS,to acquire construct enlarge re11ate & finance general ongoing permanent improvements,1250,950,1.35,5,,renewal,levy
+2886,5,2009,Jonathan Alder Local School District,46508,3904414,MADISON,to provide improvements & re11ations to school facilities including fire safety sanitary sewage sound proofing heating systems & roof & window reconstruction; to provide fixed equipment & site improvements for school facilities,646,397,2.4,100,,renewal,levy
+2887,5,2009,Poland Local School District,48678,3904743,MAHONING,to provide for the emergency requirements of the school district,717,374,2.8,5,,renewal,levy
+2888,5,2009,South Range Local School District,48702,3904743,MAHONING,to avoid an operating deficit,689,596,4.5,10,,renewal,levy
+2889,5,2009,Western Reserve Local School District,48926,3904743,MAHONING,to avoid an operating deficit,306,321,4.6,10,,renewal,levy
+2890,5,2009,Pleasant Local School District,48942,3904743,3ION,to provide for the emergency requirements of the school district,585,1473,9.5,10,,additional,levy
+2891,5,2009,Brunswick City School District,49098,3904743,MEDINA,to provide for the emergency requirements of the school district,5104,2686,3.1,7,,renewal,levy
+2892,5,2009,Parkway Local School District,49197,3904743,MERCER,for improvements re11ations & additions to school facilities & to acquire land & equipment,358,215,1.5,5,,renewal,levy
+2893,5,2009,St. Henry Consolidated Local School District,49247,3904548,MERCER,to provide for the emergency requirements of the school district,770,255,8.5,5,,renewal,levy
+2894,5,2009,Tipp City Exempted Village School District,49478,3904548,MIAMI,to provide for the emergency requirements of the school district,2260,1820,2.61,3,,additional,levy
+2895,5,2009,Tipp City Exempted Village School District,49577,3904548,MIAMI,to provide for the emergency requirements of the school district,2778,1310,7.11,3,,renewal,levy
+2896,5,2009,Troy City School District,49833,3904517,MIAMI,for general permanent improvements,1209,1090,1.1,5,,renewal,levy
+2897,5,2009,Switzerland of Ohio Local School District,49973,3904517,MONROE,to maintain the classroom facilities included in the project,3832,2646,0.5,23,,additional,levy
+2898,5,2009,Brookville Local School District,50138,3904517,MONTGOMERY,to provide for the emergency requirements of the school district,1120,524,0.27,5,,renewal,levy
+2899,5,2009,Brookville Local School District,50161,3904517,MONTGOMERY,for permanent improvements,1112,495,0.8,5,,renewal,levy
+2900,5,2009,Centerville City School District,50187,3904517,MONTGOMERY,for current expenses,6872,6229,5.9,100,,additional,levy
+2901,5,2009,Kettering City School District,50252,3904517,MONTGOMERY,for current expenses,6012,1817,6.9,5,,renewal,levy
+2902,5,2009,Northmont City School District,50419,3904517,MONTGOMERY,for current operating expenses,3509,1442,5,100,,renewal,levy
+2903,5,2009,West Muskingum Local School District,50518,3904517,MUSKINGUM,to provide for the emergency requirements of the school district,1905,2007,7.9,5,,additional,levy
+2904,5,2009,Zanesville City School District,50534,3904517,MUSKINGUM,to provide for the emergency requirements of the school district,1512,1464,3.42,5,,renewal,levy
+2905,5,2009,Genoa Area Local School District,50567,3904517,OTTAWA,for permanent improvements including but not limited to rehabilitating & improving school buildings & school heating facilities providing furniture furnishings & equipment for school purposes & improving school sites,439,273,1.8,5,,renewal,levy
+2906,5,2009,Port Clinton City School District,50591,3904517,OTTAWA,for current expenses,822,263,2.3,5,,renewal,levy
+2907,5,2009,Aurora City School District,50658,3904517,PORTAGE,for general permanent improvements,1167,679,1.5,5,,renewal,levy
+2908,5,2009,Tri-County North Local School District,50708,3904517,PREBLE,to provide for the emergency requirements of the school district,449,365,2.8,10,,additional,levy
+2909,5,2009,Twin Valley Community Local School District,46094,3904414,PREBLE,to maintain classroom facilities constructed with proceeds of the previously issued bonds,485,660,0.5,23,,existing,levy
+2910,5,2009,Lexington Local School District,45393,3904504,RICHLAND,to avoid an operating deficit,2471,732,7.7,5,,renewal,levy
+2911,5,2009,Ontario Local School District,44289,3904368,RICHLAND,to provide for the necessary requirements of the school district,1302,1231,5.8,100,,substitute,levy
+2912,5,2009,Gibsonburg Exempted Village School District,48272,3904743,SANDUSKY,for permanent improvements,377,118,1,5,,renewal,levy
+2913,5,2009,Green Local School District,43513,3904349,SCIOTO,to avoid an operating deficit,165,448,7.9,5,,additional,levy
+2914,5,2009,Fostoria City School District,43539,3904349,SENECA,to provide for the emergency requirements of the school district,934,907,7.55,5,,renewal,levy
+2915,5,2009,Tiffin City School District,43679,3904365,SENECA,to provide for the emergency requirements of the school district,2072,853,4.43,5,,renewal,levy
+2916,5,2009,Botkins Local School District,44057,3904365,SHELBY,for permanent improvements,278,171,2,5,,replacement,levy
+2917,5,2009,Russia Local School District,44958,3901572,SHELBY,to maintain the classroom facilities included in the project,204,355,0.5,23,,additional,levy
+2918,5,2009,Sidney City School District,45153,3904504,SHELBY,to avoid an operating deficit,2495,2823,9.9,5,,additional,levy
+2919,5,2009,Alliance City School District,45328,3904504,STARK,to provide for the emergency requirements of the school district,1418,525,7.2,10,,renewal,levy
+2920,5,2009,Fairless Local School District,45617,3904436,STARK,to provide of the emergency requirements of the school district,931,1886,9.5,5,,additional,levy
+2921,5,2009,Northwest Local School District,45872,3904436,STARK,to provide for the emergency requirements of the school district,2401,2702,12.9,10,,additional,levy
+2922,5,2009,Plain Local School District,46680,3904414,STARK,for current expenses,7417,7064,6.9,100,,additional,levy
+2923,5,2009,Green Local School District,46755,3904414,SUMMIT,to provide for the emergency requirements of the school district,1685,2814,5.97,5,,additional,levy
+2924,5,2009,Manchester Local School District,45476,3904504,SUMMIT,to acquire construct enlarge re11ate & finance general permanent improvements,979,1260,0.5,100,,additional,levy
+2925,5,2009,Manchester Local School District,46979,3904414,SUMMIT,for current expenses,1349,889,6.9,5,,renewal,levy
+2926,5,2009,Tallmadge City School District,47092,3904414,SUMMIT,to provide of the emergency requirements of the school district,2708,2878,6.9,5,,additional,levy
+2927,5,2009,Woodridge Local School District,47183,3904414,SUMMIT,to provide for the emergency requirements of the school district,1496,590,10.01,5,,renewal,levy
+2928,5,2009,Bristol Local School District,47688,3904743,TRUMBULL,to provide for the emergency requirements of the school district,157,201,4.7,5,,renewal,levy
+2929,5,2009,Liberty Local School District,48025,3904743,TRUMBULL,to provide for the emergency requirements of the school district,446,2226,9.9,10,,additional,levy
+2930,5,2009,Maplewood Local School District,48611,3904743,TRUMBULL,to re11ate remodel & otherwise improve school district buildings & furnish & equip school buildings,280,212,5,5,,renewal,levy
+2931,5,2009,Newton Falls Exempted Village School District,48611,3904743,TRUMBULL,to provide for the emergency requirements of the school district,469,907,4,5,,additional,levy
+2932,5,2009,Southington Local School District,48728,3904743,TRUMBULL,to provide for the emergency requirements of the school district,522,674,5,6,,additional,levy
+2933,5,2009,Weathersfield Local School District,49411,3904548,TRUMBULL,to acquire construct enlarge re11ate & finance general permanent improvements,541,686,1.6,100,,additional,levy
+2934,5,2009,Claymont City School District,49809,3904517,TUSCARAWAS,to provide for the emergency requirements of the school district,647,275,3.1,5,,renewal,levy
+2935,5,2009,Garaway Local School District,49874,3904517,TUSCARAWAS,for the emergency requirements of the school district,660,168,7.3,10,,renewal,levy
+2936,5,2009,New Philadelphia City School District,49916,3904517,TUSCARAWAS,for current expenses,939,528,5.9,5,,renewal,levy
+2937,5,2009,Newcomerstown Exempt Village School District,49973,3904517,TUSCARAWAS,to provide for the emergency requirements of the school district,411,238,7.7,5,,renewal,levy
+2938,5,2009,Tuscarawas Valley Local School District,49999,3904517,TUSCARAWAS,to acquire construct enlarge re11ate & finance general permanent improvements,724,1279,0.5,100,,additional,levy
+2939,5,2009,Little Miami Local School District,50542,3904517,WARREN,to avoid an operating deficit,3891,5276,9.95,3,,additional,levy
+2940,5,2009,Springboro Community City School District,50625,3904517,WARREN,to avoid an operating deficit,4541,4652,4.11,3,,additional,levy
+2941,5,2009,Warren Local School District,139303,3904517,WASHINGTON,to provide for the emergency requirements of the school district,1389,696,6.29,5,,renewal,levy
+2942,5,2009,Green Local School District,43646,3904349,WAYNE,to provide for the necessary requirements of the school district,403,603,4,100,,substitute,levy
+2943,5,2009,Northwestern Local School District,46508,3904414,WAYNE,for general permanent improvements,286,117,2.8,5,,renewal,levy
+2944,5,2009,Rittman Exempted Village School District,48488,3904743,WAYNE,for general permanent improvements,382,201,3.5,5,,renewal,levy
+2945,5,2009,Northwood Local School District,45393,3904504,WOOD,for general permanent improvements,225,208,1.75,100,,additional,levy
+2946,5,2009,Otsego Local School District,50245,3904517,WOOD,to provide for the emergency requirements of the school district,738,1591,5,5,,additional,levy
+2947,5,2009,Carey Exempted Village School District,44289,3904368,WYANDOT,to maintain the classroom facilities included in the project,522,1033,0.5,23,,additional,levy
+2948,8,2009,Leetonia Exempted Village School District,43489,#N/A,COLUMBIANA,to avoid an operating deficit,599,751,8.8,10,,additional,levy
+2949,8,2009,Margaretta Local School District,43505,3904349,ERIE,to provide for the emergency requirements of the school district,1130,1548,8.37,5,,additional,levy
+2950,8,2009,South-Western City School District,43513,3904349,FRANKLIN,for current operating expenses,16250,16657,8.3,4,,additional,levy
+2951,8,2009,Pike-Delta-York Local School District,43521,3904349,FULTON,to provide for the emergency requirements of the school district,479,1202,6,5,,additional,levy
+2952,8,2009,Sugarcreek Local School District,43539,3904349,GREENE,for current operating expenses,1551,1410,5.5,100,,replacement,levy
+2953,8,2009,Mt. Healthy City School District,43547,3904349,HAMILTON,to provide for the emergency requirements of the school district,913,995,1.39,5,,renewal,levy
+2954,8,2009,Winton Woods City School District,43570,3904349,HAMILTON,for current operating expenses,2202,2284,7.95,100,,additional,levy
+2955,8,2009,Monroeville Local School District,43596,3904349,HURON,to provide for the emergency requirements of the school district,457,168,3.6,5,,renewal,levy
+2956,8,2009,Buckeye Local School District,43638,3904349,JEFFERSON,to acquire construct enlarge re11ate & finance permanent improvements,880,2287,1.5,100,,additional,levy
+2957,8,2009,Madison Local School District,43653,3904365,LAKE,to provide for the emergency requirements of the school district,865,495,1.68,5,,renewal,levy
+2958,8,2009,Oregon City School District,43695,3904365,LUCAS,to provide for the emergency requirements of the school district,1131,3629,5.95,10,,additional,levy
+2959,8,2009,Field Local School District,43729,3904365,PORTAGE,for current operating expenses,1404,779,7.3,5,,renewal,levy
+2960,8,2009,Woodmore Local School District,43737,3904365,SANDUSKY,to provide for the emergency requirements of the school district,371,365,5.9,5,,additional,levy
+2961,8,2009,Russia Local School District,43828,3904365,SHELBY,to pay the cost of maintaining the classroom facilities included in the project,372,185,0.5,23,,additional,levy
+2962,8,2009,Sidney City School District,43893,3904365,SHELBY,to avoid an operating deficit,3326,3413,9.9,5,,additional,levy
+2963,8,2009,Bristol Local School District,43893,3904365,TRUMBULL,to provide for the emergency requirements of the school district,375,334,4.7,5,,renewal,levy
+2964,8,2009,Southington Local School District,43943,3904365,TRUMBULL,to provide for the emergency requirements of the school district,416,611,5,6,,additional,levy
+2965,11,2009,Delphos City School District,43950,3904365,ALLEN,for current expenses,1449,1554,1.46,5,,additional,levy
+2966,11,2009,Lima City School District,43968,3904365,ALLEN,to provide for the emergency requirements of the school district,4014,2818,5.34,5,,renewal,levy
+2967,11,2009,Ashland Co. West Holmes Joint Vocational School District,43976,3904365,ASHLAND,for current expenses,11601,8323,1,3,,renewal,levy
+2968,11,2009,Hillsdale Local School District,44016,3904365,ASHLAND,for current expenses,1419,980,4.8,2,,renewal,levy
+2969,11,2009,Ashtabula County Joint Vocational School District,44024,3904365,ASHTABULA,for general permanent improvements,16300,11373,0.3,100,,replacement,levy
+2970,11,2009,Conneaut Area City School District,44222,3904368,ASHTABULA,for general permanent improvements,2862,1447,1.5,5,,renewal,levy
+2971,11,2009,Grand Valley Local School District,44297,3904368,ASHTABULA,to re11ate remodel construct improve furnish & equip buildings & facilities for school purposes & improve their sites,1117,1216,1.55,5,,renewal,levy
+2972,11,2009,Bridgeport Exempted Village School District,44305,3904368,BELMONT,for current expenses,785,870,4,100,,replacement,levy
+2973,11,2009,Shadyside Local School District,48850,3904743,BELMONT,to provide for the emergency requirements of the school district,914,1133,5.4,3,,renewal,levy
+2974,11,2009,Monroe Local School District,44388,3904368,BUTLER,to provide the necessary requirements of the school district,2594,1067,9.71,100,,substitute,levy
+2975,11,2009,Brown Local School District,44396,3904368,CARROLL,to avoid an operating deficit,1075,783,5.62,5,,renewal,levy
+2976,11,2009,Mechanicsburg Exempted Village School District,44420,3904368,CHAMPAIGN,to provide for the emergency requirements of the school district,794,707,2.3,5,,renewal,levy
+2977,11,2009,Southeastern Local School District,44438,3904368,CLARK,to improve re11ate remodel equip & furnish existing buildings & facilities & to equip & improve school sites,959,622,3,5,,renewal,levy
+2978,11,2009,Springfield City School District,44479,3904368,CLARK,for current expenses,6831,4033,7,5,,renewal,levy
+2979,11,2009,Tecumseh Local School District,44487,3904368,CLARK,to improve re11ate & additions to school facilities & to provide equipment furnishings & site improvements,3258,1906,4,5,,renewal,levy
+2980,11,2009,Tecumseh Local School District,44537,3904368,CLARK,to provide for the emergency requirements of the school district,3296,1863,4.417,5,,renewal,levy
+2981,11,2009,Tecumseh Local School District,44545,3904368,CLARK,to provide for the emergency requirements of the school district,3369,1793,2.656,5,,renewal,levy
+2982,11,2009,Batavia Local School District,44552,3904368,CLERMONT,to maintain the classroom facilities included in the project,1379,1528,0.5,23,,additional,levy
+2983,11,2009,Bethel-Tate Local School District,44560,3904368,CLERMONT,to provide for the emergency requirements of the school district,1221,1851,4.34,5,,additional,levy
+2984,11,2009,East Clinton Local School District,44594,3901572,CLINTON,for general permanent improvements,1565,734,3,5,,renewal,levy
+2985,11,2009,East Liverpool City School District,44594,3901572,COLUMBIANA,to provide for the emergency requirements of the school district,2038,1178,6.5,5,,renewal,levy
+2986,11,2009,Leetonia Exempted Village School District,44610,3901572,COLUMBIANA,to avoid an operating deficit,781,984,8.8,10,,renewal,levy
+2987,11,2009,Southern Local School District,44628,3901572,COLUMBIANA,for current expenses,1080,751,7.84,5,,renewal,levy
+2988,11,2009,River View Local School District,44651,3901572,COSHOCTON,for general improvements including but not limited to re11ation repair or improvements of existing facilities the purchase of school buses & the purchase installation of computers & other technology,3030,1801,1.8,5,,renewal,levy
+2989,11,2009,Brecksville-Broadview Heights City School District,44693,3901572,CUYAHOGA,for current expenses,4873,6508,5.5,5,,additional,levy
+2990,11,2009,Garfield Heights City School District,44701,3901572,CUYAHOGA,to provide for the emergency requirements of the school district,2648,5237,7.5,5,,additional,levy
+2991,11,2009,Olmsted Falls City School District,44743,3901572,CUYAHOGA,for current expenses,4499,4675,6.4,100,,additional,levy
+2992,11,2009,Parma City School District,44776,3901572,CUYAHOGA,to provide for the emergency requirements of the school district,17148,23102,5.5,10,,additional,levy
+2993,11,2009,Richmond Heights Local School District,44792,3901572,CUYAHOGA,for current expenses,1775,1595,4,100,,additional,levy
+2994,11,2009,Franklin Monroe Local School District,44834,3901572,DARKE,for permanent improvements of the school district,694,362,1,5,,renewal,levy
+2995,11,2009,Ayersville Local School District,44842,3901572,DEFIANCE,for general permanent improvements,831,769,2,5,,renewal,levy
+2996,11,2009,Big Walnut Local School District,44883,3901572,DELAWARE,to provide for the emergency requirements of the school district,3724,3765,6.7,5,,additional,levy
+2997,11,2009,Huron City School District,44891,3901572,ERIE,to provide of the emergency requirements of the school district,2225,1680,8.1,10,,renewal,levy
+2998,11,2009,Margaretta Local School District,44909,3901572,ERIE,to provide of the emergency requirements of the school district,1497,1789,4.9,5,,additional,levy
+2999,11,2009,Sandusky City School District,44933,3901572,ERIE,for general permanent improvements,3426,3292,2,100,,replacement,levy
+3000,11,2009,Vermilion Local School District,44941,3901572,ERIE,to provide of the emergency requirements of the school district,1928,3470,4.84,5,,additional,levy
+3001,11,2009,Walnut Township Local School District,44958,3901572,FAIRFIELD,to provide for the emergency requirements of the school district,961,683,2.1,5,,renewal,levy
+3002,11,2009,Reynoldsburg City School District,45054,3904504,FRANKLIN,for current operating expenses,5524,5921,9.9,100,,additional,levy
+3003,11,2009,South-Western City School District,45096,3904504,FRANKLIN,for current operating expenses,20070,19413,7.4,100,,additional,levy
+3004,11,2009,Westerville City School District,45104,3904504,FRANKLIN,for current operating expenses,14685,12839,11.4,100,,replacement,levy
+3005,11,2009,Worthington City School District,45138,3904504,FRANKLIN,,11714,8101, Fix,,,replacement,levy
+3006,11,2009,West Ge8a Local School District,45138,3904504,GE8A,to provide for the emergency requirements of the school district,3834,2964,3.53,5,,renewal,levy
+3007,11,2009,Beavercreek City School District,45153,3904504,GREENE,to construct improvements re11ations & additions to school facilities to school facilities & provide equipment furnishings & site improvements therefor,10653,6569,1,5,,renewal,levy
+3008,11,2009,Xenia Community City School District,45161,3904504,GREENE,to acquire construct enlarge re11ate & finance permanent improvements,5942,5612,0.5,100,,additional,levy
+3009,11,2009,Cincinnati City School District,45195,3904504,HAMILTON,to provide for the emergency requirements of the school district,50293,32583,9.11,5,,renewal,levy
+3010,11,2009,Mt. Healthy City School District,#N/A,#N/A,HAMILTON,to provide for the emergency requirements of the school district,4000,2936,1.39,5,,replacement,levy
+3011,11,2009,Reading Community City School District,45500,3904504,HAMILTON,to avoid an operating deficit,2441,1600,5.71,3,,additional,levy
+3012,11,2009,Winton Woods City School District,45518,3904504,HAMILTON,to provide for the emergency requirements of the school district,5732,3916,7.9,10,,additional,levy
+3013,11,2009,Cory-Rawson Local School District,45583,3904436,HANCOCK,to acquire construct enlarge re11ate & finance permanent improvements,963,686,0.5,100,,additional,levy
+3014,11,2009,Riverdale Local School District,45773,3904436,HARDIN,for current expenses,1250,734,6.9,5,,renewal,levy
+3015,11,2009,Conotton Valley Union Local School District,45799,3904436,HARRISON,for permanent improvements,604,534,2,5,,replacement,levy
+3016,11,2009,Conotton Valley Union Local School District,45807,3904436,HARRISON,to avoid an operating deficit,675,460,8.3,5,,renewal,levy
+3017,11,2009,Harrison Hills City School District,45823,3904436,HARRISON,for permanent improvements,2561,2052,3,5,,renewal,levy
+3018,11,2009,Patrick Henry Local School District,45864,3904436,HENRY,for permanent improvements,1078,769,1.9,5,,renewal,levy
+3019,11,2009,Patrick Henry Local School District,45872,3904436,HENRY,for current expenses,1092,779,2.45,5,,renewal,levy
+3020,11,2009,West Holmes Local School District,45872,3904436,HOLMES,to provide for the emergency requirements of the school district,2780,2467,2.45,10,,renewal,levy
+3021,11,2009,Edison Local School District,91397,3904517,JEFFERSON,to provide for the emergency requirements of the school district,3200,2243,2,5,,renewal,levy
+3022,11,2009,Toronto City School District,46060,3904414,JEFFERSON,for current expenses,1042,642,5,5,,replacement,levy
+3023,11,2009,Willoughby-Eastlake City School District,46177,3904414,LAKE,to provide for the emergency requirements of the school district,10577,10089,3.24,5,,additional,levy
+3024,11,2009,Lakewood Local School District,46219,3904414,LICKING,to provide for the emergency requirements of the school district,1837,2997,8.9,5,,additional,levy
+3025,11,2009,Licking Heights Local School District,46235,3904414,LICKING,for general permanent improvements,2588,2420,1.99,100,,additional,levy
+3026,11,2009,Bellefontaine City School District,46243,3904414,LOGAN,to acquire construct enlarge re11ate & finance permanent improvements,2398,1804,0.5,100,,additional,levy
+3027,11,2009,Benjamin Logan Local School District,46284,3904414,LOGAN,for general permanent improvements,2368,1551,2,100,,additional,levy
+3028,11,2009,Avon Local School District,46300,3904414,LORAIN,to provide for the emergency requirements of the school district,4117,2245,1.21,10,,renewal,levy
+3029,11,2009,Columbia Local School District,46359,3904414,LORAIN,for general permanent improvements,1196,1401,2.75,100,,additional,levy
+3030,11,2009,Elyria City School District,46383,3904414,LORAIN,to provide for the emergency requirements of the school district,9493,5039,7.96,5,,renewal,levy
+3031,11,2009,Lorain City School District,46409,3904414,LORAIN,to provide for the emergency requirements of the school district,4939,6171,6.43,5,,additional,levy
+3032,11,2009,North Ridgeville City School District,46599,3904414,LORAIN,to provide for the emergency requirements of the school district,4559,4948,1.9,10,,additional,levy
+3033,11,2009,North Ridgeville City School District,46904,3904414,LORAIN,to provide for the emergency requirements of the school district,6240,3223,3.76,10,,renewal,levy
+3034,11,2009,Wellington Exempted Village School District,46995,3904414,LORAIN,to acquire construct enlarge re11ate & finance general permanent improvements,1544,1836,0.5,100,,additional,levy
+3035,11,2009,Austintown Local School District,47027,3904414,MAHONING,to maintain the classroom facilities included in the project,5270,6641,0.5,23,,additional,levy
+3036,11,2009,Canfield Local School District,47175,3904414,MAHONING,for permanent improvements,3771,2795,1,5,,replacement,levy
+3037,11,2009,Jackson Milton Local School District,47183,3904414,MAHONING,to avoid an operating deficit,1254,1133,2.1,5,,renewal,levy
+3038,11,2009,Western Reserve Local School District,47209,3904414,MAHONING,to avoid an operating deficit,1067,768,4.6,10,,renewal,levy
+3039,11,2009,Elgin Local School District,47217,3904414,3ION,to acquire construct enlarge re11ate & finance permanent improvements for the school district,1462,1347,1,100,,additional,levy
+3040,11,2009,River Valley Local School District,47225,3904722,3ION,to provide for the emergency requirements of the school district,1384,2650,4.66,5,,additional,levy
+3041,11,2009,Highland Local School District,47241,3904351,MEDINA,for current expenses,2746,4133,7.9,100,,additional,levy
+3042,11,2009,Medina City School District,47258,3904351,MEDINA,,5395,9670, Fix,,,renewal,levy
+3043,11,2009,Meigs Local School District,47332,3904351,MEIGS,for construction of a multi-purpose complex &/or other necessary permanent improvements,1478,1871,1.95,5,,additional,levy
+3044,11,2009,Piqua City School District,47696,3904743,MIAMI,to construct improvements re11ations & additions to school facilities to school facilities & provide equipment furnishings & site improvements therefor,3923,2422,1.8,5,,renewal,levy
+3045,11,2009,Jefferson Township Local School District,47712,3904743,MONTGOMERY,for current expenses,1114,877,9.5,5,,renewal,levy
+3046,11,2009,Trotwood Madison City School District,47803,3904743,MONTGOMERY,for current expenses,2108,3001,7.5,100,,additional,levy
+3047,11,2009,Franklin Local School District,47829,3904743,MUSKINGUM,for permanent improvements,2093,1602,2,5,,renewal,levy
+3048,11,2009,West Muskingum Local School District,47845,3904743,MUSKINGUM,to provide for the emergency requirements of the school district,2180,2782,7.9,5,,additional,levy
+3049,11,2009,Genoa Area Local School District,47878,3904743,OTTAWA,for current operating expenses,1645,1325,5,5,,renewal,levy
+3050,11,2009,Logan Elm Local School District,47985,3904743,PICKAWAY,to acquire construct enlarge re11ate & finance permanent improvements,1737,2951,0.75,100,,additional,levy
+3051,11,2009,Rootstown Local School District,48009,3904743,PORTAGE,to provide for the emergency requirements of the school district,1720,976,5.29,5,,renewal,levy
+3052,11,2009,Streetsboro City School District,48025,3904743,PORTAGE,for current expenses,2100,2637,9.5,100,,additional,levy
+3053,11,2009,Windham Exempted Village School District,48082,3904743,PORTAGE,to provide for the emergency requirements of the school district,595,405,5.8,5,,renewal,levy
+3054,11,2009,Eaton Community City School District,48116,3904743,PREBLE,to maintain classroom facilities included in the project,2380,2468,0.5,23,,additional,levy
+3055,11,2009,Twin Valley Community Local School District,48124,3904743,PREBLE,to maintain classroom facilities included in the project,1005,1043,0.5,23,,extension,levy
+3056,11,2009,Madison Local School District,48132,3904743,RICHLAND,to maintain classroom facilities included in the project,2675,3917,0.5,23,,additional,levy
+3057,11,2009,Clyde-Green Springs Exempted Village School District,48140,3904743,SANDUSKY,to provide for the emergency requirements of the school district,1880,1822,5.45,5,,renewal,levy
+3058,11,2009,Woodmore Local School District,48140,3904743,SANDUSKY,to acquire construct enlarge re11ate & finance permanent improvements,1276,1522,0.5,100,,additional,levy
+3059,11,2009,Fostoria City School District,48173,3904743,SENECA,to maintain the classroom facilities included in the project,870,2747,0.5,23,,additional,levy
+3060,11,2009,Old Fort Local School District,48207,3904743,SENECA,to acquire construct enlarge re11ate & finance permanent improvements,377,541,0.5,100,,additional,levy
+3061,11,2009,Anna Local School District,48215,3904743,SHELBY,to provide for the emergency requirements of the school district,1432,504,4,5,,renewal,levy
+3062,11,2009,Russia Local School District,48272,3904743,SHELBY,for current expenses,485,244,8,5,,replacement,levy
+3063,11,2009,Sidney City School District,48306,3904743,SHELBY,to avoid an operating deficit,4452,4451,9.9,5,,additional,levy
+3064,11,2009,Fairless Local School District,48322,3904743,STARK,to provide for the emergency requirements of the school district,1237,3045,9.5,5,,additional,levy
+3065,11,2009,Marlington Local School District,48322,3904743,STARK,for current expenses,2237,2965,8.5,5,,replacement,levy
+3066,11,2009,Tuslaw Local School District,48348,3904743,STARK,to provide for the emergency requirements of the school district,1265,1786,6,5,,additional,levy
+3067,11,2009,Barberton City School District,48447,3904743,SUMMIT,to provide for the emergency requirements of the school district,3362,3072,8.57,10,,renewal,levy
+3068,11,2009,Coventry Local School District,48462,3904743,SUMMIT,to provide for the emergency requirements of the school district,1728,2270,4.99,3,,additional,levy
+3069,11,2009,Cuyahoga Falls City School District,48462,3904743,SUMMIT,for current expenses,7383,3964,7.9,5,,renewal,levy
+3070,11,2009,Green Local School District,48488,3904743,SUMMIT,to provide for the emergency requirements of the school district,6873,2375,5.8,5,,renewal,levy
+3071,11,2009,Manchester Local School District,48629,3904743,SUMMIT,to acquire construct enlarge re11ate & finance permanent improvements,1817,1895,0.5,100,,additional,levy
+3072,11,2009,Norton City School District,48637,3904743,SUMMIT,to acquire construct enlarge re11ate & finance permanent improvements,2205,2954,2,100,,additional,levy
+3073,11,2009,Springfield Local School District,48652,3904743,SUMMIT,to provide for the emergency requirements of the school district,3463,1951,2.24,5,,renewal,levy
+3074,11,2009,Springfield Local School District,48686,3904743,SUMMIT,to provide for the emergency requirements of the school district,3393,2020,3.85,5,,renewal,levy
+3075,11,2009,Springfield Local School District,48710,3904743,SUMMIT,for current expenses,3522,1840,7,5,,renewal,levy
+3076,11,2009,Tallmadge City School District,48710,3904743,SUMMIT,to provide for the emergency requirements of the school district,3967,3659,6.9,5,,additional,levy
+3077,11,2009,Bloomfield-Mespo Local School District,48744,3904743,TRUMBULL,to provide for the emergency requirements of the school district,397,214,3.4,5,,renewal,levy
+3078,11,2009,Howland Local School District,48751,3904743,TRUMBULL,to avoid an operating deficit,4569,3157,3.9,5,,renewal,levy
+3079,11,2009,Lakeview Local School District,48793,3904743,TRUMBULL,to provide for the emergency requirements of the school district,2247,2798,3.75,5,,additional,levy
+3080,11,2009,Liberty Local School District,48884,3904743,TRUMBULL,to provide for the emergency requirements of the school district,1068,3195,9.9,10,,additional,levy
+3081,11,2009,McDonald Local School District,49171,3904743,TRUMBULL,to provide for the emergency requirements of the school district,822,756,4.9,5,,additional,levy
+3082,11,2009,Niles City School District,49189,3904743,TRUMBULL,to provide for the emergency requirements of the school district,2537,2462,4.6,10,,renewal,levy
+3083,11,2009,Southington Local School District,49197,3904743,TRUMBULL,to provide for the emergency requirements of the school district,646,875,5,3,,additional,levy
+3084,11,2009,Weathersfield Local School District,49213,3904921,TRUMBULL,to acquire construct enlarge re11ate & finance general permanent improvements,962,1039,1.6,100,,additional,levy
+3085,11,2009,Marysville Exempted Village School District,49247,3904548,UNION,for current expenses,5632,3149,6.56,5,,renewal,levy
+3086,11,2009,Van Wert City School District,49379,3904548,VANWERT,for general permanent improvements,2627,1577,2.5,100,,renewal,levy
+3087,11,2009,Little Miami Local School District,49395,3904548,WARREN,for current expenses,5642,6174,1,5,,additional,levy
+3088,11,2009,Belpre City School District,49544,3904548,WASHINGTON,to provide for the emergency requirements of the school district,1341,1041,3.85,5,,renewal,levy
+3089,11,2009,Frontier Local School District,49577,3904548,WASHINGTON,for current expenses,940,704,3.3,5,,renewal,levy
+3090,11,2009,Marietta City School District,49692,3904548,WASHINGTON,to pay the cost of maintaining the classroom facilities included in the project,3174,4382,0.5,23,,additional,levy
+3091,11,2009,Green Local School District,49775,3904548,WAYNE,to provide for the emergency requirements of the school district,1496,887,4,7,,renewal,levy
+3092,11,2009,Southeast Local School District,49833,3904517,WAYNE,to provide for the emergency requirements of the school district,1602,1209,4,10,,renewal,levy
+3093,11,2009,Edon Northwest Local School District,49874,3904517,WILLIAMS,for permanent improvements,814,308,3,5,,renewal,levy
+3094,11,2009,North Central Local School District,#N/A,#N/A,WILLIAMS,to provide for the necessary requirements of the school district,760,751,6.9,10,,substitute,levy
+3095,11,2009,Eastwood Local School District,#N/A,#N/A,WOOD,to acquire construct enlarge re11ate & finance permanent improvements,1504,2180,0.75,100,,additional,levy
+3096,11,2009,Eastwood Local School District,49890,3904517,WOOD,for permanent improvements for school buildings & equipment purposed & site development,1942,1794,2,5,,renewal,levy
+3097,2,2010,Madison Local School District,49957,3904517,BUTLER,to avoid an operating deficit,703,488,6.6,5,,renewal,levy
+3098,2,2010,Olmsted Falls City School District,49973,3904517,CUYAHOGA,for current expenses,4408,3590,8.7,100,,additional,levy
+3099,2,2010,Columbia Local School District,49999,3904517,LORAIN,for general permanent improvements,774,849,2.75,100,,additional,levy
+3100,2,2010,Columbia Local School District,50021,3904517,LORAIN,to provide for the emergency requirements of the school district,1020,610,3.11,5,,renewal,levy
+3101,2,2010,Miamisburg City School District,50047,3904517,MONTGOMERY,to provide for the emergency requirements of the school district,3185,3520,6.58,3,,additional,levy
+3102,2,2010,Miamisburg City School District,50070,3904517,MONTGOMERY,to provide for the necessary requirements of the school district,3934,2785,7.06,5,,substitute,levy
+3103,2,2010,Streetsboro City School District,50120,3904517,PORTAGE,for current expenses,1128,1634,9.5,100,,additional,levy
+3104,2,2010,Manchester Local School District,50138,3904517,SUMMIT,for current expenses,WITHDREW,WITHDREW,8.5,5,,renewal,levy
+3105,2,2010,Nordonia Hill City School District,48850,3904743,SUMMIT,for current expenses,1145,4453,6.5,100,,additional,levy
+3106,2,2010,Southington Local School District,50161,3904517,TRUMBULL,to provide for the emergency requirements of the school district,367,502,4.1,3,,additional,levy
+3107,2,2010,Little Miami Local School District,50179,3904517,WARREN,to avoid an operating deficit,4978,5992,16.95,5,,additional,levy
+3108,5,2010,Elida Local School District,50294,3904517,ALLEN,to provide for the emergency requirements of the school district,2118,1571,7.2,5,,renewal,levy
+3109,5,2010,Hillsdale Local School District,50302,3904517,ASHLAND,for current expenses,821,543,7.4,5,,renewal,levy
+3110,5,2010,Ashtabula Area City School District,50419,3904517,ASHTABULA,for current expenses,1701,2939,4.9,100,,additional,levy
+3111,5,2010,Grand Valley Local School District,50500,3904517,ASHTABULA,to re11ate remodel construct improve furnish & equip buildings & facilities for school purposes & improving school sites for school purposes,786,651,1.55,5,,renewal,levy
+3112,5,2010,Jefferson Area Local School District,50591,3904517,ASHTABULA,for current operating expenses,1108,1094,3,5,,renewal,levy
+3113,5,2010,Pymatuning Valley Local School District,50740,3904517,ASHTABULA,to provide for the emergency requirements of the school district,745,855,6.98,5,,additional,levy
+3114,5,2010,New Bremen Local School District,91397,3904517,8LAIZE,for permanent improvements,424,206,1,5,,renewal,levy
+3115,5,2010,Bellaire Local School District,139303,3904517,BELMONT,to provide for the emergency requirements of the school district,626,1782,12.9,5,,additional,levy
+3116,5,2010,Bridgeport Exempted Village School District,46508,3904414,BELMONT,for current operating expenses,732,689,4,5,,replacement,levy
+3117,5,2010,Shadyside Local School District,43752,3904365,BELMONT,for current expenses,847,626,5,5,,renewal,levy
+3118,5,2010,Edgewood City School District,43794,3904365,BUTLER,to provide for the necessary requirements of the school district,1599,1617,6.88,5,,substitute,levy
+3119,5,2010,Lakota Local School District,48488,3904743,BUTLER,,8696,14028, Fix,,,substitute,levy
+3120,5,2010,Middletown City School District,47548,3904743,BUTLER,to provide for the necessary requirements of the school district,3832,2730,18.78,100,,substitute,levy
+3121,5,2010,Graham Local School District,46094,3904414,CHAMPAIGN,for general permanent improvements,1289,1008,1,5,,renewal,levy
+3122,5,2010,Urbana City School District,46094,3904414,CHAMPAIGN,for current operating expenses,1274,862,5.9,5,,renewal,levy
+3123,5,2010,Greenon Local School District,45393,3904504,CLARK,for current expenses,1334,1846,3,5,,additional,levy
+3124,5,2010,Northwestern Local School District,44263,3904368,CLARK,to provide for the necessary requirements of the school district,1094,1210,7.838,6,,substitute,levy
+3125,5,2010,Leetonia Exempted Village School District,45534,3904553,COLUMBIANA,to avoid an operating deficit,576,792,8.8,4,,additional,levy
+3126,5,2010,Salem City School District,50336,3904517,COLUMBIANA,to provide for the emergency requirements of the school district,2413,1059,6.7,5,,renewal,levy
+3127,5,2010,Garfield Heights Local School District,48033,3904743,CUYAHOGA,to provide for the emergency requirements of the school district,2494,2140,5.8,5,,renewal,levy
+3128,5,2010,Lakewood City School District,47514,3904743,CUYAHOGA,for current expenses,5851,3801,6.9,100,,additional,levy
+3129,5,2010,North Olmsted City School District,47951,3904743,CUYAHOGA,for current expenses,4334,5158,7.9,100,,additional,levy
+3130,5,2010,North Royalton City School District,44818,3901572,CUYAHOGA,to provide for the emergency requirements of the school district,5185,3723,6.5,10,,renewal,levy
+3131,5,2010,Parma City School District,50252,3904517,CUYAHOGA,to provide for the emergency requirements of the school district,20160,11015,4.1,10,,renewal,levy
+3132,5,2010,Parma City School District,45153,3904504,CUYAHOGA,to provide for the emergency requirements of the school district,14441,16596,5.5,10,,additional,levy
+3133,5,2010,Shaker Heights City School District,45823,3904436,CUYAHOGA,for current expenses,5242,3749,9.9,100,,additional,levy
+3134,5,2010,Solon City School District,48173,3904743,CUYAHOGA,for current expenses,4759,2938,6.9,100,,additional,levy
+3135,5,2010,Ansonia Local School District,49247,3904548,DARKE,to provide funds for permanent improvements,302,131,1,5,,renewal,levy
+3136,5,2010,Big Walnut Local School District,49809,3904517,DELAWARE,to provide for the emergency requirements of the school district,3229,3335,7.5,5,,additional,levy
+3137,5,2010,Delaware City School District,49999,3904517,DELAWARE,to provide for the necessary requirements of the school district,3967,2119,12.8,10,,substitute,levy
+3138,5,2010,Berlin Local School District,46094,3904414,ERIE,to provide for the emergency requirements of the school district,871,1387,6.9,5,,additional,levy
+3139,5,2010,Margaretta Local School District,43513,3904349,ERIE,to provide for the emergency requirements of the school district,1157,1381,5.86,5,,additional,levy
+3140,5,2010,Gahanna-Jefferson City School District,43539,3904349,FRANKLIN,for current operating expenses,5810,6276,9,100,,additional,levy
+3141,5,2010,Reynoldsburg City School District,43570,3904349,FRANKLIN,,5964,4851, Fix,,,replacement,levy
+3142,5,2010,Fayette Local School District,43638,3904349,FULTON,for current expenses,328,110,0.75,5,,additional,levy
+3143,5,2010,Pettisville Local School District,43653,3904365,FULTON,for general permanent improvements,227,158,3.5,100,,renewal,levy
+3144,5,2010,Cardinal Local School District,43729,3904365,GE8A,for current expenses,787,1365,5.7,100,,replacement,levy
+3145,5,2010,Yellow Springs Exempted Village School District,43737,3904365,GREENE,to provide for the emergency requirements of the school district,893,299,8.7,5,,renewal,levy
+3146,5,2010,Finneytown Local School District,43745,3904365,HAMILTON,for current expenses,1699,1400,7.95,100,,additional,levy
+3147,5,2010,North College Hill City School District,43836,3904365,HAMILTON,to provide for the emergency requirements of the school district,582,783,4.96,5,,additional,levy
+3148,5,2010,Northwest Local School District,43877,3904365,HAMILTON,to provide for the emergency requirements of the school district,8785,5098,3.88,5,,renewal,levy
+3149,5,2010,Norwood City School District,43968,3904365,HAMILTON,to provide for the necessary requirements of the school district,1201,731,9.48,100,,substitute,levy
+3150,5,2010,McComb Local School District,43992,3904365,HANCOCK,for general permanent improvements,521,202,3.36,5,,renewal,levy
+3151,5,2010,Willard City School District,44024,3904365,HURON,to provide for the emergency requirements of the school district,631,428,5.4,5,,renewal,levy
+3152,5,2010,Buckeye Local School District,44065,3904365,JEFFERSON,to provide for the emergency requirements of the school district,2040,2653,3.81,3,,additional,levy
+3153,5,2010,Fredericktown Local School District,44164,3904368,KNOX,to provide for the emergency requirements of the school district,735,1249,4.8,5,,additional,levy
+3154,5,2010,Mount Vernon City School District,44198,3904368,KNOX,to provide for the emergency requirements of the school district,2728,2511,2.75,5,,renewal,levy
+3155,5,2010,Fairport Harbor Exempted Village School District,44222,3904368,LAKE,to provide for the emergency requirements of the school district,335,189,6.86,5,,renewal,levy
+3156,5,2010,Lake County School Financing District,44297,3904368,LAKE,for current expenses of specified educational programs within the territory,6672,4312,4.9,5,,renewal,levy
+3157,5,2010,Heath City School District,44420,3904368,LICKING,to avoid an operating deficit,1848,685,9.9,5,,renewal,levy
+3158,5,2010,Lakewood Local School District,44438,3904368,LICKING,to provide for the emergency requirements of the school district,2170,2380,9.9,10,,additional,levy
+3159,5,2010,Southwest Licking Local School District,44495,3904368,LICKING,,2338,3747, Fix,10,,renewal,levy
+3160,5,2010,Avon Local School District,44495,3904368,LORAIN,to provide for the emergency requirements of the school district,1878,2414,5.9,10,,additional,levy
+3161,5,2010,Elyria City School District,44503,3904368,LORAIN,to provide for the emergency requirements of the school district,4183,3879,4.99,5,,additional,levy
+3162,5,2010,Firelands Local School District,44537,3904368,LORAIN,to provide for the emergency requirements of the school district,1552,714,2.74,10,,renewal,levy
+3163,5,2010,Lorain City School District,44602,3901572,LORAIN,to provide for the emergency requirements of the school district,2409,3649,8.97,5,,additional,levy
+3164,5,2010,Midview Local School District,44610,3901572,LORAIN,to provide for the emergency requirements of the school district,1999,2590,7.51,10,,additional,levy
+3165,5,2010,North Ridgeville City School District,44628,3901572,LORAIN,to provide for the emergency requirements of the school district,4198,2836,2.7,10,,additional,levy
+3166,5,2010,Springfield Local School District,44644,3901572,LUCAS,for current expenses,2219,2845,3.9,5,,additional,levy
+3167,5,2010,Jefferson Local School District,44735,3901572,MADISON,to provide for the emergency requirements of the school district,934,711,8.91,5,,renewal,levy
+3168,5,2010,Campbell City School District,44818,3901572,MAHONING,to provide for the emergency requirements of the school district,1220,353,12,5,,renewal,levy
+3169,5,2010,South Range Local School District,44941,3901572,MAHONING,to avoid an operating deficit,1012,715,3.1,10,,renewal,levy
+3170,5,2010,River Valley Local School District,44966,3901572,3ION,,1790,906, Fix,,,replacement,levy
+3171,5,2010,Buckeye Local School District,45062,3904504,MEDINA,to provide for the emergency requirements of the school district,1451,2135,6.5,5,,additional,levy
+3172,5,2010,Cloverleaf Local School District,45096,3904504,MEDINA,for general permanent improvements,1929,2006,2,5,,renewal,levy
+3173,5,2010,Highland Local School District,45104,3904504,MEDINA,to provide for the emergency requirements of the school district,2729,2854,5.9,5,,additional,levy
+3174,5,2010,Troy City School District,45187,3904504,MIAMI,for current expenses,2690,1815,5.9,5,,renewal,levy
+3175,5,2010,Brookville Local School District,45195,3904504,MONTGOMERY,for current operating expenses,1517,769,8.5,5,,renewal,levy
+3176,5,2010,Brookville Local School District,45195,3904504,MONTGOMERY,for current operating expenses,1487,809,8.5,5,,renewal,levy
+3177,5,2010,Kettering City School District,45211,3904504,MONTGOMERY,for current expenses,6622,7229,6.9,5,,additional,levy
+3178,5,2010,Miamisburg City School District,45252,3904504,MONTGOMERY,to provide for the emergency requirements of the school district,6723,4779,7.33,3,,additional,levy
+3179,5,2010,Northmont City School District,45260,3904504,MONTGOMERY,for current expenses,5011,3618,9,5,,replacement,levy
+3180,5,2010,Trotwood-Madison City School District,45278,3904504,MONTGOMERY,for current expenses,1370,1750,7.5,100,,additional,levy
+3181,5,2010,West Carrollton City School District,45328,3904504,MONTGOMERY,for current expenses,2009,2592,3.25,3,,additional,levy
+3182,5,2010,West Carrollton City School District,45336,3904504,MONTGOMERY,for current expenses,2622,2031,6.5,100,,renewal,levy
+3183,5,2010,Logan Elm Local School District,#N/A,#N/A,PICKAWAY,to provide for the necessary requirements of the school district,1202,1752,2.9,100,,substitute,levy
+3184,5,2010,Aurora City School District,45492,3904504,PORTAGE,for current expenses,1791,986,5.61,5,,renewal,levy
+3185,5,2010,Rootstown Local School District,45492,3904504,PORTAGE,to provide for the emergency requirements of the school district,627,1214,6.92,10,,additional,levy
+3186,5,2010,Southeast Local School District,45500,3904504,PORTAGE,to provide for the emergency requirements of the school district,1042,1023,8.32,4,,renewal,levy
+3187,5,2010,Streetsboro City School District,45518,3904504,PORTAGE,for current operating expenses,1508,1717,3.5,5,,replacement,levy
+3188,5,2010,Lucas Local School District,45617,3904436,RICHLAND,to avoid an operating deficit,497,316,13,5,,renewal,levy
+3189,5,2010,Bellevue City School District,45773,3904436,SANDUSKY,for permanent improvements,1444,606,2,5,,renewal,levy
+3190,5,2010,Woodmore Local School District,45773,3904436,SANDUSKY,to provide for the emergency requirements of the school district,799,848,2.99,5,,additional,levy
+3191,5,2010,Jackson Center Local School District,45823,3904436,SHELBY,for permanent improvements,274,216,1,5,,replacement,levy
+3192,5,2010,Marlington Local School District,45872,3904436,STARK,for current expenses,2048,2142,8.5,5,,replacement,levy
+3193,5,2010,Tuslaw Local School District,91397,3904517,STARK,to provide for the emergency requirements of the school district,1130,1074,6.7,5,,additional,levy
+3194,5,2010,Coventry Local School District,45971,3904597,SUMMIT,to provide for the emergency requirements of the school district,1907,1463,6.25,5,,additional,levy
+3195,5,2010,Hudson City School District,46177,3904414,SUMMIT,for current expenses,2826,3611,5.9,100,,additional,levy
+3196,5,2010,Manchester Local School District,46219,3904414,SUMMIT,to provide for the emergency requirements of the school district,1437,706,1.47,5,,renewal,levy
+3197,5,2010,Manchester Local School District,46235,3904414,SUMMIT,for current expenses,1444,687,8.5,5,,renewal,levy
+3198,5,2010,Revere Local School District,46243,3904414,SUMMIT,to provide for the emergency requirements of the school district,2031,3312,6.86,10,,additional,levy
+3199,5,2010,Woodridge Local School District,46284,3904414,SUMMIT,for current expenses,2126,900,2.03,10,,renewal,levy
+3200,5,2010,Lakeview Local School District,46458,3904414,TRUMBULL,to provide for the emergency requirements of the school district,1786,1784,3.75,5,,additional,levy
+3201,5,2010,Liberty Local School District,46672,3904414,TRUMBULL,to provide for the emergency requirements of the school district,1680,1556,7.4,5,,renewal,levy
+3202,5,2010,Lordstown Local School District,46813,3904414,TRUMBULL,for general permanent improvements,270,610,2,5,,additional,levy
+3203,5,2010,Maplewood Local School District,46813,3904414,TRUMBULL,to provide for the emergency requirements of the school district,589,497,5.4,5,,renewal,levy
+3204,5,2010,Mathews Local School District,46904,3904414,TRUMBULL,for current expenses,855,824,7.8,5,,replacement,levy
+3205,5,2010,Newton Falls Exempted Village School District,46979,3904414,TRUMBULL,to provide for the emergency requirements of the school district,723,760,4.6,5,,renewal,levy
+3206,5,2010,Weathersfield Local School District,47092,3904414,TRUMBULL,to provide for the emergency requirements of the school district,615,439,3.9,10,,renewal,levy
+3207,5,2010,Garaway Local School District,47209,3904414,TUSCARAWAS,for general permanent improvements,679,336,1,100,,renewal,levy
+3208,5,2010,Tuscarawas Valley Local School District,47340,3904351,TUSCARAWAS,to provide for the emergency requirements of the school district,1171,895,2.2,10,,renewal,levy
+3209,5,2010,North Union Local School District,47373,3904351,UNION,to provide for the emergency requirements of the school district,852,511,5,10,,renewal,levy
+3210,5,2010,Franklin City School District,47431,3904743,WARREN,to avoid an operating deficit,1593,1023,8.9,5,,renewal,levy
+3211,5,2010,Kings Local School District,47522,3904743,WARREN,for current expenses,3334,2498,6.9,100,,additional,levy
+3212,5,2010,Little Miami Local School District,47522,3904743,WARREN,to avoid an operating deficit,4343,5755,6.48,5,,additional,levy
+3213,5,2010,Belpre City School District,47696,3904743,WASHINGTON,for general permanent improvements,746,1094,3.6,100,,additional,levy
+3214,5,2010,North Central Local School District,47712,3904743,WAYNE,to re11ate & repair school buildings; improve their sites; purchase new equipment & replace obsolete equipment,644,475,2,5,,renewal,levy
+3215,5,2010,Orrville City School District,47803,3904743,WAYNE,to provide for the emergency requirements of the school district,1179,1068,5.4,5,,additional,levy
+3216,5,2010,Southeast Local School District,47845,3904743,WAYNE,to provide for the emergency requirements of the school district,959,1270,7,5,,additional,levy
+3217,5,2010,Wooster City School District,47878,3904743,WAYNE,for current expenses,3242,3537,6.5,100,,additional,levy
+3218,5,2010,Bowling Green City School District,47985,3904743,WOOD,for current expenses,3762,1667,4.2,5,,renewal,levy
+3219,5,2010,Eastwood Local School District,47993,3904743,WOOD,to provide for the emergency requirements of the school district,1225,897,4.3,5,,renewal,levy
+3220,5,2010,North Baltimore Local School District,48009,3904743,WOOD,for current expenses,401,401,8.9,100,,replacement,levy
+3221,8,2010,Northwestern Local School District,48025,3904743,CLARK,to provide for the necessary requirements of the school district. If approved any remaining  on any of the two existing levies will not be collected after 2010.,1500,1103,7.843,6,,substitute,levy
+3222,8,2010,North Olmsted City School District,48074,3904743,CUYAHOGA,for current expenses,4243,4944,7.9,100,,additional,levy
+3223,8,2010,Margaretta Local School District,48124,3904743,ERIE,to provide for the emergency requirements of the school district,1270,1217,6.9,5,,additional,levy
+3224,8,2010,Patrick Henry Local School District,48140,3904743,HENRY,to provide for the emergency requirements of the school district,387,786,4.9,5,,additional,levy
+3225,8,2010,East Knox Local School District,48272,3904743,KNOX,to provide for the emergency requirements of the school district,395,1448,4.97,5,,additional,levy
+3226,8,2010,Lakewood Local School District,48306,3904743,LICKING,to provide of the emergency requirements of the school district,1687,1763,9.9,10,,additional,levy
+3227,8,2010,Avon Local School District,48306,3904743,LORAIN,to provide for the emergency requirements of the school district,2125,3081,5.9,10,,additional,levy
+3228,8,2010,Buckeye Local School District,48322,3904743,MEDINA,to provide for the emergency requirements of the school district,1439,1722,6.8,5,,additional,levy
+3229,8,2010,Highland Local School District,48322,3904743,MEDINA,to provide for the emergency requirements of the school district,2456,2768,5.9,5,,additional,levy
+3230,8,2010,Logan Elm Local School District,48348,3904743,PICKAWAY,to provide for the emergency requirements of the school district,1356,998,2.9,5,,renewal,levy
+3231,8,2010,Rootstown Local School District,48462,3904743,PORTAGE,to provide for the emergency requirements of the school district,556,1117,5.96,5,,additional,levy
+3232,8,2010,Woodmore Local School District,48488,3904743,SANDUSKY,to provide for the emergency requirements of the school district,723,761,2.99,5,,additional,levy
+3233,8,2010,Sidney City School District,#N/A,#N/A,SHELBY,to avoid an operating deficit,2689,3829,4.37,5,,renewal,levy
+3234,8,2010,Copley-Fairlawn City School District,48652,3904743,SUMMIT,for current expenses,2161,1736,6.9,100,,additional,levy
+3235,8,2010,Southeast Local School District,48678,3904743,WAYNE,to provide for the emergency requirements of the school district,849,1193,7,5,,additional,levy
+3236,8,2010,Wooster City School District,48678,3904743,WAYNE,for current expenses,3449,3368,6.5,100,,additional,levy
+3237,11,2010,Adams County Ohio Valley Local School District,48686,3904743,ADAMS,to avoid an operating deficit,1833,5446,9.4,5,,additional,levy
+3238,11,2010,Ashland City School District,48744,3904743,ASHLAND,for permanent improvements,5101,3156,1.25,5,,renewal,levy
+3239,11,2010,Hillsdale Local School District,48793,3904743,ASHLAND,for general permanent improvements,1495,907,1.4,5,,renewal,levy
+3240,11,2010,Mapleton Local School District,48835,3904743,ASHLAND,for current expenses,1272,1094,4,5,,renewal,levy
+3241,11,2010,Mapleton Local School District,48884,3904743,ASHLAND,for permanent improvements,1236,1124,4,5,,renewal,levy
+3242,11,2010,Ashtabula Area City School District,49692,3904548,ASHTABULA,for general permanent improvements,4462,3432,2.5,5,,renewal,levy
+3243,11,2010,Ashtabula Area City School District,49775,3904548,ASHTABULA,for current expenses,3189,4705,4.9,100,,additional,levy
+3244,11,2010,Buckeye Local School District,49833,3904517,ASHTABULA,for general permanent improvements,2525,1298,1.9,5,,renewal,levy
+3245,11,2010,Grand Valley Local School District,49841,3904517,ASHTABULA,to provide for the emergency requirements of the school district,1107,1645,4.9,5,,additional,levy
+3246,11,2010,Pymatuning Valley Local School District,49874,3904517,ASHTABULA,to provide for the emergency requirements of the school district,1602,1305,5,5,,renewal,levy
+3247,11,2010,Bellaire Local School District,#N/A,#N/A,BELMONT,to provide for the emergency requirements of the school district,1002,2285,12.9,5,,additional,levy
+3248,11,2010,Edgewood City School District,49999,3904517,BUTLER,to provide for the necessary requirements of the school district,3966,2851,6.16,5,,substitute,levy
+3249,11,2010,Lakota Local School District,50039,3904517,BUTLER,to avoid an operating deficit,19208,21896,7.9,10,,additional,levy
+3250,11,2010,Urbana City School District,50120,3904517,CHAMPAIGN,for current operating expenses,2593,2117,14.8,5,,renewal,levy
+3251,11,2010,Greenon Local School District,50138,3904517,CLARK,to provide for the emergency requirements of the school district,3118,2613,7.009,5,,additional,levy
+3252,11,2010,East Palestine City School District,50187,3904517,COLUMBIANA,to provide for the emergency requirements of the school district,777,1661,6.8,5,,additional,levy
+3253,11,2010,Leetonia Exempted Village School District,45476,3904504,COLUMBIANA,to avoid an operating deficit,1002,692,5.4,5,,renewal,levy
+3254,11,2010,River View Local School District,50229,3904517,COSHOCTON,for current expenses,3299,2346,4.8,5,,renewal,levy
+3255,11,2010,Bucyrus City School District,50419,3904517,CRAWFORD,to provide for the necessary requirements of the school district,1260,1744,10.2,100,,substitute,levy
+3256,11,2010,Galion City School District,50633,3904517,CRAWFORD,for current expenses,2292,1900,7.73,5,,renewal,levy
+3257,11,2010,Bay Village City School District,50682,3904517,CUYAHOGA,for current expenses,4277,3669,6.9,100,,additional,levy
+3258,11,2010,Bedford City School District,50682,3904517,CUYAHOGA,for general permanent improvements,6195,4352,1,100,,renewal,levy
+3259,11,2010,Parma City School District,50708,3904517,CUYAHOGA,to provide for the emergency requirements of the school district,11498,14873,5.5,10,,additional,levy
+3260,11,2010,Brecksville-Broadview Heights City School District,43646,3904349,CUYAHOGA,for current expenses,5658,6567,5.8,5,,additional,levy
+3261,11,2010,Brooklyn City School District,43646,3904349,CUYAHOGA,for current expenses,2070,1659,6,5,,renewal,levy
+3262,11,2010,Garfield Heights City School District,46508,3904414,CUYAHOGA,to provide for the emergency requirements of the school district,2662,5446,8.9,5,,additional,levy
+3263,11,2010,Independence Local School District,48488,3904743,CUYAHOGA,to provide for the emergency requirements of the school district,1534,2048,8.8,3,,renewal,levy
+3264,11,2010,North Olmsted City School District,46094,3904414,CUYAHOGA,for current expenses,6900,6844,7.9,100,,additional,levy
+3265,11,2010,Orange City School District,45377,3904504,CUYAHOGA,to operate & maintain recreational facilities,4333,2062,0.95,5,,renewal,levy
+3266,11,2010,Parma City School District,50203,3904517,CUYAHOGA,to provide for the emergency requirements of the school district,18452,21240,5.5,10,,additional,levy
+3267,11,2010,Richmond Heights Local School District,50203,3904517,CUYAHOGA,to construct add to improve & equip school buildings & landscape improve equip & provide school sites,1934,1609,2,5,,renewal,levy
+3268,11,2010,Ayersville Local School District,48272,3904743,DEFIANCE,for current expenses,878,745,1.6,5,,renewal,levy
+3269,11,2010,Big Walnut Local School District,45542,3904436,DELAWARE,to provide for the emergency requirements of the school district,4794,4649,7.5,5,,additional,levy
+3270,11,2010,Berlin-Milan Local School District,44818,3901572,ERIE,to provide for the emergency requirements of the school district,1400,2341,3.5,5,,additional,levy
+3271,11,2010,EHOVE Joint Vocational School District,44727,3901572,ERIE,for current expenses,23188,17995,1.5,100,,replacement,levy
+3272,11,2010,Huron City School District,44727,3901572,ERIE,to remodel re11ate rehabilitate add to construct improve furnish & equip buildings for school purposes & acquire & improve their sites,2543,1977,3,100,,renewal,levy
+3273,11,2010,Margaretta Local School District  CONVERSION LEVY,49296,3904548,ERIE,for general construction reconstruction resurfacing & repair of streets roads & bridges,931,2321,0.5,5,,renewal,levy
+3274,11,2010,Perkins Local School District,43653,3904365,ERIE,to provide for the emergency requirements of the school district,2627,3622,4.98,5,,additional,levy
+3275,11,2010,Pickerington Local School District,44008,3904365,FAIRFIELD,for current expenses,8984,9092,8,100,,replacement,levy
+3276,11,2010,Bexley City School District,44024,3904365,FRANKLIN,for current expenses,3704,2463,6.5,100,,additional,levy
+3277,11,2010,Gahanna Jefferson City School District,44099,3904365,FRANKLIN,for current expenses,10212,10308,6.8,100,,additional,levy
+3278,11,2010,Grandview Heights City School District,44214,3904368,FRANKLIN,with 3.9 mils for current operating expenses & 2 mills for general on-going permanent improvements,2352,1267,5.9,100,,additional,levy
+3279,11,2010,Evergreen Local School District,44610,3901572,FULTON,for provide for permanent improvements,1629,1198,1.8,100,,renewal,levy
+3280,11,2010,Wauseon Exempted Village School District,44784,3901572,FULTON,to provide for the emergency requirements of the school district,1583,1872,4.38,10,,additional,levy
+3281,11,2010,Cardinal Local School District,46177,3904414,GE8A,for current expenses,1547,1598,6.2,100,,replacement,levy
+3282,11,2010,Chardon Local School District,46219,3904414,GE8A,to avoid an operating deficit,3415,5667,4.29,5,,additional,levy
+3283,11,2010,Newbury Local School District,46243,3904414,GE8A,for permanent improvements,1336,1116,1,5,,renewal,levy
+3284,11,2010,Beavercreek City School District,46284,3904414,GREENE,to provide for the emergency requirements of the school district,13610,8751,11,5,,renewal of 2 existing levies,levy
+3285,11,2010,Cedar Cliff Local School District,46813,3904414,GREENE,to provide for the emergency requirements of the school district,1034,708,3.2,5,,renewal,levy
+3286,11,2010,Xenia City School District,47092,3904414,GREENE,to avoid an operating deficit,7426,5625,11.4,5,,renewal,levy
+3287,11,2010,East Guernsey Local School District,48488,3904743,GUERNSEY,to provide for the emergency requirements of the school district,856,1650,6.25,5,,additional,levy
+3288,11,2010,Lockland Local School District,48488,3904743,HAMILTON,for current operating expenses,360,772,14.95,100,,additional,levy
+3289,11,2010,Mt. Healthy City School District,48751,3904743,HAMILTON,for current operating expenses,3458,5019,7.65,100,,additional,levy
+3290,11,2010,North College Hill City School District,49197,3904743,HAMILTON,to provide for the emergency requirements of the school district,1327,2072,4.96,5,,additional,levy
+3291,11,2010,Conotton Valley Union Local School District,69682,3904517,HARRISON,to avoid an operating deficit,518,780,8.87,5,,additional,levy
+3292,11,2010,Patrick Henry Local School District,50336,3904517,HENRY,to provide for the emergency requirements of the school district,608,1627,4.9,5,,additional,levy
+3293,11,2010,East Holmes Local School District,43570,3904349,HOLMES,to provide for the emergency requirements of the school district,1097,1650,5.33,5,,additional,levy
+3294,11,2010,Indian Creek Local School District,43653,3904365,JEFFERSON,for current operating expenses,4121,3655,7.9,5,,renewal,levy
+3295,11,2010,Jefferson County Joint Vocational School District,43661,3904365,JEFFERSON,for current expenses; for purchasing or enlarging a site & for the erection & equipment of buildings; & for the enlarging improving or rebuilding of buildings & sites,11362,14238,1,10,,additional,levy
+3296,11,2010,East Knox Local School District,43679,3904365,KNOX,to provide for the emergency requirements of the school district,1232,2480,4.97,5,,additional,levy
+3297,11,2010,Mount Vernon City School District,43737,3904365,KNOX,to provide for the emergency requirements of the school district,3521,6331,4.6,5,,additional,levy
+3298,11,2010,Painesville City School District,43802,3904365,LAKE,for current expenses,1726,1755,6,100,,replacement,levy
+3299,11,2010,Riverside Local School District,43802,3904365,LAKE,to provide for the emergency requirements of the school district,6014,8173,4.84,5,,additional,levy
+3300,11,2010,Willoughby-Eastlake City School District,43828,3904365,LAKE,for general permanent improvements,12668,9010,1.3,100,,replacement,levy
+3301,11,2010,Lawrence County Joint Vocational School District,43851,3904365,LAWRENCE,to improve re11ate & add to school facilities and provide equipment furnishings & site improvements therefor,7161,10366,0.5,5,,additional,levy
+3302,11,2010,Granville Exempted Village School District,43943,3904365,LICKING,for current expenses,2790,2584,5.8,100,,additional,levy
+3303,11,2010,Lakewood Local School District,44008,3904365,LICKING,to provide for the emergency requirements of the school district,3060,3026,9.9,10,,additional,levy
+3304,11,2010,North Fork Local School District,44024,3904365,LICKING,to provide for the emergency requirements of the school district,1318,2839,6.8,3,,additional,levy
+3305,11,2010,Southwest Licking Local School District,44057,3904365,LICKING,to provide for the emergency requirements of the school district,5310,4873,8,5,,renewal & increase,levy
+3306,11,2010,Bellefontaine City School District,44115,3904368,LOGAN,,2410,1770,0.75,,,renewal,levy
+3307,11,2010,Avon Local School District,44131,3904368,LORAIN,to provide for the emergency requirements of the school district,4578,4353,5.9,10,,additional,levy
+3308,11,2010,Clearview Local School District,44180,3904368,LORAIN,to improve & equip school buildings acquire textbooks & buses & acquire repair & replace educational technology,822,771,1,5,,additional,levy
+3309,11,2010,Clearview Local School District,44198,3904368,LORAIN,to provide for the emergency requirements of the school district,951,647,3.92,5,,renewal,levy
+3310,11,2010,Columbia Local School District,44214,3904368,LORAIN,for general permanent improvements,1520,1436,2,5,,additional,levy
+3311,11,2010,Firelands Local School District,44297,3904368,LORAIN,to provide for the emergency requirements of the school district,2327,2391,4.01,5,,additional,levy
+3312,11,2010,Lorain City School District,48850,3904743,LORAIN,to provide for the emergency requirements of the school district,6347,7825,9.12,10,,additional,levy
+3313,11,2010,Midview Local School District,44388,3904368,LORAIN,to provide for the emergency requirements of the school district,3288,4530,7.51,10,,additional,levy
+3314,11,2010,Wellington Exempted Village School District,44404,3904368,LORAIN,for current operating expenses & to acquire construct enlarge re11ate & finance general on-going permanent improvements,1621,1735,5,100,,additional,levy
+3315,11,2010,Oregon City School District,44420,3904368,LUCAS,to provide for the emergency requirements of the school district,3976,5692,5.9,5,,additional,levy
+3316,11,2010,Ottawa Hills Local School District,44438,3904368,LUCAS,for current expenses,1563,854,7.6,100,,additional,levy
+3317,11,2010,Springfield Local School District,44453,3904368,LUCAS,for current expenses,5632,5577,3.9,100,,additional,levy
+3318,11,2010,Sylvania City School District,44487,3904368,LUCAS,for current expenses,10310,11938,4.9,100,,additional,levy
+3319,11,2010,Toledo City School District,44537,3904368,LUCAS,for current expenses,26285,36124,7.8,100,,additional,levy
+3320,11,2010,Madison-Plains Local School District,44545,3904368,MADISON,for current expenses,1746,1410,8,3,,renewal,levy
+3321,11,2010,Austintown Local School District,44552,3904368,MAHONING,for current expenses,8195,5179,4.9,5,,renewal,levy
+3322,11,2010,Austintown Local School District,44560,3904368,MAHONING,for current expenses,8104,5322,7.3,5,,renewal,levy
+3323,11,2010,Boardman Local School District,44586,3901572,MAHONING,to provide of emergency requirements of the school district,9441,5685,1.6,3,,renewal,levy
+3324,11,2010,Boardman Local School District,44651,3901572,MAHONING,for current expenses,9670,5455,5.9,5,,renewal,levy
+3325,11,2010,Boardman Local School District,44685,3901572,MAHONING,for current expenses,9754,5402,6,5,,renewal,levy
+3326,11,2010,Canfield Local School District,44784,3901572,MAHONING,for current expenses,3740,5187,6.8,100,,additional,levy
+3327,11,2010,Poland Local School District,44883,3901572,MAHONING,to provide for the emergency requirements of the school district,3198,3943,3.9,5,,additional,levy
+3328,11,2010,Western Reserve Local School District,44909,3901572,MAHONING,to avoid an operating deficit,1004,817,1.5,10,,renewal,levy
+3329,11,2010,Ridgedale Local School District,44925,3901572,3ION,to provide permanent improvements,904,990,2.6,5,,additional,levy
+3330,11,2010,River Valley Local School District,44933,3901572,3ION,to provide for the emergency requirements of the school district,1837,2996,5.8,5,,additional,levy
+3331,11,2010,Tri Rivers Joint Vocational School District,44941,3901572,3ION,to purchase a site or enlargement thereof & for erection & equipment of buildings & to enlarge improve or rebuild thereof,12584,18828,1.3,10,,additional,levy
+3332,11,2010,Brunswick City School District,44958,3901572,MEDINA,to provide for the emergency requirements of the school district,7927,6311,4.6,7,,renewal,levy
+3333,11,2010,Cloverleaf Local School District,44990,3901572,MEDINA,for permanent improvements,4060,3880,2,5,,renewal,levy
+3334,11,2010,Cloverleaf Local School District,45062,3904504,MEDINA,to provide for the emergency requirements of the school district,2646,5259,5.9,5,,additional,levy
+3335,11,2010,Medina City School District,45104,3904504,MEDINA,to provide for the emergency requirements of the school district,7511,9840,5.9,5,,additional,levy
+3336,11,2010,Marion Local School District,45278,3904504,MERCER,to construct school building improvements including equipment furnishings & site improvements,1042,608,1.5,5,,replacement,levy
+3337,11,2010,Parkway Local School District,45328,3904504,MERCER,for current expenses,1321,807,8.97,5,,renewal,levy
+3338,11,2010,Bethel Local School District,45369,3904504,MIAMI,for provide for the emergency requirements of the school district,1405,1053,3.67,4,,renewal,levy
+3339,11,2010,Miami East Local School District,45393,3904504,MIAMI,to avoid an operating deficit,1405,1885,4.67,5,,additional,levy
+3340,11,2010,Miami East Local School District,#N/A,#N/A,MIAMI,to construct reconstruct remodel & add to school buildings including furniture equipment & school buses & to purchase necessary real estate & site development,1917,1377,0.8,5,,replacement,levy
+3341,11,2010,Milton-Union Exempted Village School District,45534,3904553,MIAMI,for permanent improvements,2196,1793,3.9,5,,renewal,levy
+3342,11,2010,Switzerland of Ohio Local School District,45575,3904436,MONROE,for current operating expenses,3549,2930,5,5,,renewal,levy
+3343,11,2010,Jefferson Township Local School District,45609,3904436,MONTGOMERY,for general permanent improvements,1375,992,2,100,,renewal,levy
+3344,11,2010,Kettering City School District,45666,3904436,MONTGOMERY,for current expenses,12765,11001,4.9,5,,additional,levy
+3345,11,2010,Oakwood City School District,45765,3904436,MONTGOMERY,for current operating expenses,2816,1645,5.75,100,,additional,levy
+3346,11,2010,Trotwood-Madison City School District,45773,3904436,MONTGOMERY,for current expenses,3448,3627,7.5,100,,additional,levy
+3347,11,2010,West Carrollton City School District,45799,3904436,MONTGOMERY,for current operating expenses,4191,4367,3.25,3,,additional,levy
+3348,11,2010,Cardington-Lincoln Local School District,45823,3904436,MORROW,to provide for the emergency requirements of the school district,752,1318,8.75,3,,additional,levy
+3349,11,2010,Genoa Area Local School District,45872,3904436,OTTAWA,for current operating expenses,1672,1596,3.9,5,,renewal,levy
+3350,11,2010,Put-In-Bay Local School District,91397,3904517,OTTAWA,for recreation purposes of the Put-In-Bay Recreation Committee,216,148,0.5,5,,renewal,levy
+3351,11,2010,Rootstown Local School District,45948,3904436,PORTAGE,to provide for the emergency requirements of the school district,1484,1930,5.96,5,,additional,levy
+3352,11,2010,Streetsboro City School District,45955,3904436,PORTAGE,for current expenses,3715,1764,3.5,5,,renewal,levy
+3353,11,2010,Streetsboro City School District,45963,3904436,PORTAGE,for current expenses,2774,2673,3.9,5,,additional,levy
+3354,11,2010,Waterloo Local School District,46003,3904414,PORTAGE,for current expenses,1024,2110,8,100,,additional,levy
+3355,11,2010,Twin Valley Community Local School District,46102,3904414,PREBLE,to provide for the emergency requirements of the school district,1231,940,2.6,5,,renewal,levy
+3356,11,2010,Twin Valley Community Local School District,46193,3904414,PREBLE,for current operating expenses,1261,907,9,5,,renewal,levy
+3357,11,2010,Ottawa-Glandorf Local School District,44917,3901572,PUTNAM,to provide for the emergency requirements of the school district,2275,1363,2.37,5,,renewal,levy
+3358,11,2010,Ontario Local School District,44917,3901572,RICHLAND,to avoid an operating deficit,1708,3259,6.5,5,,additional,levy
+3359,11,2010,Paint Valley Local School District,46243,3904414,ROSS,to construct or acquire of any specific permanent improvement or class of improvements that the taxing authority of the school district 5 include in a single bond issue,969,874,2.5,5,,renewal,levy
+3360,11,2010,Clyde-Green Springs Exempted Village School District,46284,3904414,SANDUSKY,to provide for emergency requirements of the school district,1939,1866,2.3,10,,renewal,levy
+3361,11,2010,Woodmore Local School District,46359,3904414,SANDUSKY,to provide for the emergency requirements of the school district,1434,1534,2.99,5,,additional,levy
+3362,11,2010,Sidney City School District,46367,3904414,SHELBY,to avoid an operating deficit,3931,5048,4.37,5,,renewal,levy
+3363,11,2010,Fairless Local School District,46391,3904414,STARK,to provide for the necessary requirements of the school district with the sum of such tax to increase only if & as new land or real property not previously taxed by the school district are added to its tax list? If approved any remaining tax  on any of the 2 existing levies will not be collected after the 2009 tax year.|Lake Township of|6411.0|3869.0|1.5|mill /s|renewal|for|5 |commencing in|2010.0|first due in calendar year|2011.0|for general construction reconstruction resurfacing & repair of streets roads & bridges,2039,2312,8.4,5,,substitute for 2 existing levies,levy
+3364,11,2010,Marlington Local School District,46458,3904414,STARK,for current expenses,3595,2296,8.5,5,,renewal,levy
+3365,11,2010,Massillon City School District,46516,3904414,STARK,to provide for the emergency requirements of the school district,5167,3258,4.2,5,,renewal,levy
+3366,11,2010,North Canton City School District,46516,3904414,STARK,for current expenses,7164,5455,4.5,100,,additional,levy
+3367,11,2010,Sandy Valley Local School District,46565,3904414,STARK,for permanent improvements including remodeling rehabilitating adding to improving furnishing & equipping buildings for school purposes & otherwise improving school sites,1333,1390,2,5,,renewal,levy
+3368,11,2010,Green Local School District,46573,3904414,SUMMIT,to provide for the emergency requirements of the school district,4781,5382,6.71,5,,additional,levy
+3369,11,2010,Hudson City School District,46607,3904414,SUMMIT,for current expenses,5328,6078,5.9,100,,additional,levy
+3370,11,2010,Mogadore Local School District,46706,3904414,SUMMIT,for current expenses,686,894,8.49,100,,additional,levy
+3371,11,2010,Nordonia Hills City School District,46813,3904414,SUMMIT,for current expenses,5710,7953,6.5,100,,additional,levy
+3372,11,2010,Revere Local School District,46854,3904414,SUMMIT,to provide for the emergency requirements of the school district,4460,5153,4.85,10,,additional,levy
+3373,11,2010,Springfield Local School District,46862,3904414,SUMMIT,for general permanent improvements,3293,2568,1.8,5,,renewal,levy
+3374,11,2010,Springfield Local School District,47050,3904414,SUMMIT,to provide for the emergency requirements of the school district,3095,2749,3.52,5,,renewal,levy
+3375,11,2010,Stow-Munroe Falls City School District,47167,3904414,SUMMIT,to provide for the emergency requirements of the school district,9063,5693,4.56,5,,renewal,levy
+3376,11,2010,Twinsburg City School District,47183,3904414,SUMMIT,to provide for the emergency requirements of the school district,5782,3118,5.03,10,,renewal,levy
+3377,11,2010,Bristol Local School District,47209,3904414,TRUMBULL,to provide for permanent improvements for school buildings improvement to school site & purchase of buses,882,791,2.5,5,,renewal,levy
+3378,11,2010,Howland Local School District,47217,3904414,TRUMBULL,for general permanent improvements,5480,3602,1,5,,renewal,levy
+3379,11,2010,Hubbard Exempted Village School District,47241,3904351,TRUMBULL,to provide for the emergency requirements of the school district,3228,2078,4.75,5,,renewal,levy
+3380,11,2010,Liberty Local School District,47373,3904351,TRUMBULL,to provide for the emergency requirements of the school district,2558,2411,3.1,5,,renewal,levy
+3381,11,2010,Lordstown Local School District,47399,3904351,TRUMBULL,to provide for the emergency requirements of the school district,902,602,5.2,5,,renewal,levy
+3382,11,2010,Lordstown Local School District,47449,3904743,TRUMBULL,to provide for the emergency requirements of the school district,902,602,5.65,5,,renewal,levy
+3383,11,2010,Mathews Local School District,47464,3904743,TRUMBULL,for general permanent improvements,1294,1735,2,5,,additional,levy
+3384,11,2010,Newton Falls Exempted Village School District,47514,3904743,TRUMBULL,to provide for the emergency requirements of the school district,1535,1391,4.6,5,,renewal,levy
+3385,11,2010,Southington Local School District,47522,3904743,TRUMBULL,to provide for emergency requirements of the school district,1023,646,3.95,4,,renewal,levy
+3386,11,2010,Claymont City School District,47571,3904743,TUSCARAWAS,to provide for the emergency requirements of the school district,1097,2104,6.1,5,,additional,levy
+3387,11,2010,Newcomerstown Exempted Village School District,47571,3904743,TUSCARAWAS,for current expenses,762,1113,9.2,5,,replacement,levy
+3388,11,2010,Crestview Local School District,47712,3904743,VANWERT,for current expenses,1072,691,5,5,,renewal,levy
+3389,11,2010,Vantage Career Center Joint Vocational School District,47845,3904743,VANWERT,for permanent improvements including equipment & related technologies,12916,8663,0.7,5,,renewal,levy
+3390,11,2010,Kings Local School District,48025,3904743,WARREN,to improve re11ate acquire & add to school facilities & provide equipment school buses furnishings & site improvements therefore,5013,3377,3,5,,renewal,levy
+3391,11,2010,Lebanon City School District,48041,3904743,WARREN,to avoid an operating deficit,7104,4902,3,5,,renewal,levy
+3392,11,2010,Little Miami Local School District,48074,3904743,WARREN,,6680,6972, Fix,,,renewal,levy
+3393,11,2010,Springboro Community City School District,48082,3904743,WARREN,to avoid an operating deficit,6263,6905,6.83,5,,additional,levy
+3394,11,2010,Frontier Local School District,48116,3904743,WASHINGTON,to provide for the emergency requirements of the school district,1067,653,2.34,10,,renewal,levy
+3395,11,2010,Marietta City School District,48140,3904743,WASHINGTON,to avoid an operating deficit,3752,4516,6.38,5,,additional,levy
+3396,11,2010,Green Local School District,48207,3904743,WAYNE,to provide for the emergency requirements of the school district,1391,1143,6.7,10,,renewal,levy
+3397,11,2010,Rittman Exempted Village School District,48215,3904743,WAYNE,to avoid an operating deficit,1250,714,9.1,5,,renewal,levy
+3398,11,2010,Southeast Local School District,48272,3904743,WAYNE,to provide for the emergency requirements of the school district,2131,2027,7,5,,renewal,levy
+3399,11,2010,Wooster City School District,48314,3904743,WAYNE,for current expenses,WITHDREW,WITHDREW,6.5,100,,additional,levy
+3400,11,2010,Stryker Local School District,48355,3904743,WILLIAMS,to provide for the emergency requirements of the school district,469,643,5.5,5,,additional,levy
+3401,11,2010,Bowling Green City School District,48389,3904743,WOOD,to avoid an operating deficit,5958,4805,1.6,5,,additional,levy
+3402,11,2010,Lake Local School District,48421,3904743,WOOD,for general permanent improvements,2252,1498,1.4,100,,renewal,levy
+3403,11,2010,Lake Local School District,48439,3904743,WOOD,for current expenses,2182,1538,6.63,100,,replacement,levy
+3404,11,2010,Perrysburg Exempted Village School District,48488,3904743,WOOD,for general permanent improvements,6545,4273,1.9,5,,replacement,levy
+3405,11,2010,Carey Exempted Village School District,48652,3904743,WYANDOT,to re11ate remodel improve furnish & equip buildings & pay costs of installations modifications & remodeling of existing school buildings,1183,446,3,5,,renewal,levy
+3406,2,2011,Bucyrus City School District,48678,3904743,CRAWFORD,to provide for the necessary requirements of the school district,341,336,10.2,100,,substitute,levy
+3407,2,2011,Garfield Heights City School District,48686,3904743,CUYAHOGA,to provide for the emergency requirements of the school district,1187,2967,8.9,5,,additional,levy
+3408,2,2011,Independence Local School District,48751,3904743,CUYAHOGA,,1577,1379, Fix,3,,additional,levy
+3409,2,2011,Cardinal Local School District,48793,3904743,GE8A,to provide for the emergency requirements of the school district,642,1376,6.53,5,,additional,levy
+3410,2,2011,Mt. Healthy City School District,48819,3904743,HAMILTON,for current operating expenses,425,1494,7.65,100,,additional,levy
+3411,2,2011,St. Bernard-Elmwood Place City School District,48843,3904743,HAMILTON,to provide for the necessary requirements of the school district. If approved any remaining  on any of the two levies will not be collected after 2011.,318,257,14.49,100,,substitute,levy
+3412,2,2011,Revere Local School District,48926,3904743,SUMMIT,to provide for the emergency requirements of the school district,2306,776,4.66,5,,renewal,levy
+3413,5,2011,Adams County/Ohio Valley School District,48926,3904743,ADAMS,to avoid an operating deficit,713,2791,9.4,5,,additional,levy
+3414,5,2011,Hillsdale Local School District,49080,3904743,ASHLAND,for current expenses,569,341,7.9,4,,renewal,levy
+3415,5,2011,Loudonville-Perrysville Exempted Village School District,49197,3904743,ASHLAND,to provide for the emergency requirements of the school district,655,378,2.33,10,,renewal,levy
+3416,5,2011,Athens City School District,49239,3904548,ATHENS,to provide for general on-going permanent improvements including construction or acquisition of the following permanent improvements: board projection of repairs textbooks classroom furniture school buses replacement of educational equipment new equipment & other repairs & improvements,1458,672,2.9,5,,replacement,levy
+3417,5,2011,St. 3ys City School District,49320,3904548,8LAIZE,to provide for the emergency requirements of the school district,599,2304,7.9,5,,additional,levy
+3418,5,2011,Shadyside Local School District,49353,3904548,BELMONT,for permanent improvements,626,281,4.5,4,,renewal,levy
+3419,5,2011,Graham Local School District,49577,3904548,CHAMPAIGN,to provide for the emergency requirements of the school district,931,2236,8,5,,additional,levy
+3420,5,2011,Greenon Local School District,49692,3904548,CLARK,to avoid an operating deficit,1082,625,1.97,5,,renewal,levy
+3421,5,2011,Northwestern Local School District,49726,3904548,CLARK,for permanent improvements,1024,1118,1,100,,renewal,levy
+3422,5,2011,Southeastern Local School District,49833,3904517,CLARK,to avoid an operating deficit,387,322,5.01,5,,renewal,levy
+3423,5,2011,Springfield City School District,49841,3904517,CLARK,to avoid an operating deficit,2103,1025,9.573,7,,renewal,levy
+3424,5,2011,Tecumseh Local School District,#N/A,#N/A,CLARK,to provide for the emergency requirements of the school district,1806,1955,6.61,3,,additional,levy
+3425,5,2011,Batavia Local School District,49916,3904517,CLERMONT,for current expenses,822,995,6.9,100,,additional,levy
+3426,5,2011,West Clermont Local School District,50039,3904517,CLERMONT,to provide for the emergency requirements of the school district,4574,6925,7.9,10,,additional,levy
+3427,5,2011,Salem City School District,50070,3904517,COLUMBIANA,to provide for the emergency requirements of the school district,1253,568,4.3,5,,renewal,levy
+3428,5,2011,Brecksville-Broadview Heights City School District,50112,3904517,CUYAHOGA,for current expenses,4317,4568,5.3,5,,additional,levy
+3429,5,2011,Euclid City School District,48850,3904743,CUYAHOGA,for current expenses,2585,4567,6.9,100,,additional,levy
+3430,5,2011,Garfield Heights City School District,48850,3904743,CUYAHOGA,to provide for the emergency requirements of the school district,2632,2519,6.6,5,,renewal,levy
+3431,5,2011,Garfield Heights City School District,50161,3904517,CUYAHOGA,to provide for the emergency requirements of the school district,1884,3287,9,5,,additional,levy
+3432,5,2011,Olmsted Falls City School District,50203,3904517,CUYAHOGA,for general permanent improvements,2434,2901,2.8,100,,additional,levy
+3433,5,2011,Parma City School District,45476,3904504,CUYAHOGA,to provide for the emergency requirements of the school district,14599,14285,6.9,10,,additional,levy
+3434,5,2011,Strongsville City School District,50237,3904517,CUYAHOGA,for current expenses,1763,9874,9.9,100,,additional,levy
+3435,5,2011,Greenville City School District,50245,3904517,DARKE,for current expenses,2135,1036,5.5,5,,renewal,levy
+3436,5,2011,Berlin-Milan Local School District,50252,3904517,ERIE,to provide for the emergency requirements of the school district,665,1116,4.9,5,,additional,levy
+3437,5,2011,Margaretta Local School District,50278,3904517,ERIE,for current expenses,875,952,7.75,5,,renewal,levy
+3438,5,2011,Vermilion Local School District,50286,3904517,ERIE,to provide for the emergency requirements of the school district,1538,786,9.5,5,,renewal of 2 existing levies,levy
+3439,5,2011,Canal Winchester Local School District,50302,3904517,FRANKLIN,to provide for the emergency requirements of the school district,1751,1797,14.78,3,,renewal,levy
+3440,5,2011,Gahanna-Jefferson City School District,50328,3904517,FRANKLIN,for current expenses,5857,4448,5.2,100,,additional,levy
+3441,5,2011,Hilliard City School District,50369,3904517,FRANKLIN,for current expenses,6356,8258,6.9,100,,additional,levy
+3442,5,2011,Archbold Area Local School District,50427,3904517,FULTON,to provide for the emergency requirements of the school district,631,373,5.39,5,,renewal,levy
+3443,5,2011,Wauseon Exempted Village School District,50468,3904517,FULTON,to provide for the emergency requirements of the school district,1785,883,4.05,5,,renewal,levy
+3444,5,2011,Wauseon Exempted Village School District,50492,3904517,FULTON,to provide for the emergency requirements of the school district,1497,1162,4.38,8,,additional,levy
+3445,5,2011,Chardon Local School District,50567,3904517,GE8A,to avoid an operating deficit,2325,3099,4.29,5,,additional,levy
+3446,5,2011,West Ge8a Local School District,50633,3904517,GE8A,for general permanent improvements,1674,1947,0.95,100,,additional,levy
+3447,5,2011,Beavercreek City School District,50674,3904517,GREENE,to provide for the emergency requirements of the school district,3711,7576,9.9,5,,additional,levy
+3448,5,2011,Fairborn City School District,50682,3904517,GREENE,for current expenses,1787,3211,7.9,100,,additional,levy
+3449,5,2011,Xenia Community City School District,50682,3904517,GREENE,to construct re11ations & improvements to school buildings & providing equipment & furnishings,2476,1796,1.3,5,,renewal,levy
+3450,5,2011,Loveland City School District,50716,3904517,HAMILTON,for current expenses,4450,2137,3.5,100,,additional,levy
+3451,5,2011,Norwood City School District,69682,3904517,HAMILTON,to provide for the emergency requirements of the school district,1232,924,8.61,10,,additional,levy
+3452,5,2011,Conotton Valley Union Local School District,91397,3904517,HARRISON,to avoid an operating deficit,302,429,7.21,10,,additional,levy
+3453,5,2011,Patrick Henry Local School District,43646,3904349,HENRY,to provide for the emergency requirements of the school district,730,977,6.5,3,,additional,levy
+3454,5,2011,East Holmes Local School District,43794,3904365,HOLMES,to provide for the emergency requirements of the school district,672,748,3.82,5,,additional,levy
+3455,5,2011,West Holmes Local School District,45344,3904504,HOLMES,to provide for the emergency requirements of the school district,1236,858,1.22,10,,renewal,levy
+3456,5,2011,New London Local School District,50674,3904517,HURON,to provide for the emergency requirements of the school district,373,230,1.55,5,,renewal,levy
+3457,5,2011,East Knox Local School District,46094,3904414,KNOX,to provide for the emergency requirements of the school district,756,1371,5,5,,additional,levy
+3458,5,2011,Fredericktown Local School District,45377,3904504,KNOX,to provide for the emergency requirements of the school district,815,1068,6.4,5,,additional,levy
+3459,5,2011,Mount Vernon Local School District,49205,3904743,KNOX,to provide for the emergency requirements of the school district,2397,2797,4.7,5,,additional,levy
+3460,5,2011,Kirtland Local School District,47993,3904743,LAKE,for general permanent improvements,634,398,1.1,5,,renewal,levy
+3461,5,2011,Riverside Local School District,50203,3904517,LAKE,for general permanent improvements,1986,1885,1.89,5,,renewal,levy
+3462,5,2011,Licking Heights Local School District,44289,3904368,LICKING,to provide for the emergency requirements of the school district,1508,1398,11.92,10,,renewal & increase,levy
+3463,5,2011,North Fork Local School District,48272,3904743,LICKING,to provide for the emergency requirements of the school district,1129,1779,6.75,5,,additional,levy
+3464,5,2011,Riverside Local School District,50229,3904517,LOGAN,for permanent improvements,246,243,2,5,,renewal,levy
+3465,5,2011,Avon Lake Local School District,50336,3904517,LORAIN,for general permanent improvements,2331,978,1.5,5,,renewal,levy
+3466,5,2011,Avon Lake Local School District,50336,3904517,LORAIN,to provide for the emergency requirements of the school district,2252,1051,5.45,10,,renewal,levy
+3467,5,2011,Avon Local School District,49908,3904517,LORAIN,to provide for the emergency requirements of the school district,2174,1421,2.31,5,,renewal,levy
+3468,5,2011,Firelands Local School District,46813,3904414,LORAIN,to provide for the emergency requirements of the school district,1306,1037,4.95,5,,additional,levy
+3469,5,2011,Lorain City School District,46813,3904414,LORAIN,for current expenses,4501,2707,23.85,5,,renewal,levy
+3470,5,2011,Midview Local School District,46474,3904414,LORAIN,to provide for the emergency requirements of the school district,1773,2439,5.59,10,,additional,levy
+3471,5,2011,North Ridgeville City School District,47514,3904743,LORAIN,to provide for the emergency requirements of the school district,1777,2321,4.9,10,,additional,levy
+3472,5,2011,Wellington Exempted Village School District,47951,3904743,LORAIN,to provide for the emergency requirements of the school district,1252,963,5,3,,additional,levy
+3473,5,2011,Maumee City School District,49528,3904548,LUCAS,for current expenses,1383,1493,5.9,100,,additional,levy
+3474,5,2011,Sylvania City School District,49528,3904548,LUCAS,for current expenses,6908,4715,4.9,100,,additional,levy
+3475,5,2011,London City School District,44818,3901572,MADISON,to provide for the emergency requirements of the school district,789,1793,7.5,5,,additional,levy
+3476,5,2011,Canfield Local School District,49296,3904548,MAHONING,to provide for the emergency requirements of the school district,3366,2235,1.6,5,,renewal,levy
+3477,5,2011,Canfield Local School District,44933,3901572,MAHONING,for current expenses,2314,3279,6.8,5,,additional,levy
+3478,5,2011,Poland Local School District,45153,3904504,MAHONING,to provide for the emergency requirements of the school district,2590,1893,3.6,5,,renewal,levy
+3479,5,2011,Poland Local School District,44685,3901572,MAHONING,to provide for the emergency requirements of the school district,1916,2558,4.9,5,,additional,levy
+3480,5,2011,Struthers City School District,43521,3904349,MAHONING,for current expenses,1715,653,6.9,5,,additional,levy
+3481,5,2011,Black River Local School District,43570,3904349,MEDINA,to provide for the emergency requirements of the school district,785,1242,7.5,5,,additional,levy
+3482,5,2011,Highland Local School District,43604,3904349,MEDINA,to provide for the emergency requirements of the school district,2904,2881,6.9,10,,additional,levy
+3483,5,2011,Celina City School District,43653,3904365,MERCER,to avoid an operating deficit,1682,1498,12.47,5,,renewal,levy
+3484,5,2011,St. Henry Consolidated Local School District,43661,3904365,MERCER,for general permanent improvements,549,260,1.21,100,,replacement,levy
+3485,5,2011,Troy City School District,43778,3904365,MIAMI,for current expenses,2443,1420,5.8,5,,renewal,levy
+3486,5,2011,Trotwood Madison City School District,43869,3904365,MONTGOMERY,for current expenses,1686,868,7.5,100,,additional,levy
+3487,5,2011,Vandalia-Butler City School District,43885,3904365,MONTGOMERY,to avoid an operating deficit,1936,859,6.54,5,,renewal,levy
+3488,5,2011,Benton-Carroll-Salem Local School District,43885,3904365,OTTAWA,to provide for the emergency requirements of the school district,1022,1097,3.9,5,,additional,levy
+3489,5,2011,Rootstown Local School District,43893,3904365,PORTAGE,to provide for the emergency requirements of the school district,1261,1265,5.96,5,,additional,levy
+3490,5,2011,Waterloo Local School District,43943,3904365,PORTAGE,to avoid an operating deficit,675,1082,4.76,5,,additional,levy
+3491,5,2011,Ontario Local School District,43984,3904365,RICHLAND,to avoid an operating deficit,824,1897,6.5,5,,additional,levy
+3492,5,2011,Bellevue City School District,44008,3904365,SANDUSKY,to provide for the emergency requirements of the school district,1060,980,3.25,10,,renewal,levy
+3493,5,2011,Clyde-Green Springs Exempted Village School District,44099,3904365,SANDUSKY,to provide for the emergency requirements of the school district,751,1327,4.9,3,,additional,levy
+3494,5,2011,Woodmore Local School District,44271,3904368,SANDUSKY,to provide for the emergency requirements of the school district,1224,860,3.95,5,,additional,levy
+3495,5,2011,Fostoria City School District,44404,3904368,SENECA,to provide for the emergency requirements of the school district,1164,829,7.51,5,,renewal,levy
+3496,5,2011,Anna Local School District,44487,3904368,SHELBY,for permanent improvements,436,155,1.5,5,,renewal,levy
+3497,5,2011,Canton Local School District,44545,3904368,STARK,8.9 mills for current operating expenses and 1.9 mills to acquire construct enlarge re11ate & finance permanent improvements,1440,603,10.8,5,,renewal,levy
+3498,5,2011,Fairless Local School District,44560,3904368,STARK,to provide for the necessary requirements of the school district? If approved any remaining tax  on any of the 2 existing levies will not be collected after the 2010 tax year.|Jackson Local School District,1249,1043,8.4,5,,substitute,levy
+3499,5,2011,Marlington Local School District,44636,3901572,STARK,for current expenses,1537,1001,5.7,100,,renewal,levy
+3500,5,2011,Northwest Local School District,44644,3901572,STARK,to provide for the emergency requirements of the school district,1907,1124,5.5,5,,renewal,levy
+3501,5,2011,Sandy Valley Local School District,44685,3901572,STARK,for permanent improvements including remodeling rehabilitating adding to improving furnishing & equipping buildings for school purposes & otherwise improving school sites,739,526,2,5,,renewal,levy
+3502,5,2011,Cuyahoga Falls City School District,44743,3901572,SUMMIT,for current expenses,3282,2981,9.97,5,,replacement,levy
+3503,5,2011,Green Local School District,44750,3901572,SUMMIT,to provide for the emergency requirements of the school district,5528,3031,6.75,5,,additional,levy
+3504,5,2011,Hudson City School District,44768,3901572,SUMMIT,for current expenses,4194,3532,4.9,100,,additional,levy
+3505,5,2011,Manchester Local School District,44768,3901572,SUMMIT,for current expenses,1143,889,9,100,,replacement,levy
+3506,5,2011,Mogadore Local School District,44784,3901572,SUMMIT,for current expenses,574,560,8.49,100,,additional,levy
+3507,5,2011,Nordonia Hills City School District,44875,3901572,SUMMIT,for current expenses,4153,4751,6.5,100,,additional,levy
+3508,5,2011,Revere Local School District,44891,3901572,SUMMIT,to provide for the emergency requirements of the school district,3590,3033,4.83,10,,additional,levy
+3509,5,2011,Tallmadge City School District,45039,3901572,SUMMIT,for general permanent improvements,2184,1325,1.25,5,,renewal,levy
+3510,5,2011,Tallmadge City School District,45096,3904504,SUMMIT,for current expenses,2187,1317,7.5,5,,renewal,levy
+3511,5,2011,Bristol Local School District,45179,3904504,TRUMBULL,to provide for the emergency requirements of the school district,319,228,3.7,3,,renewal,levy
+3512,5,2011,Champion Local School District,45187,3904504,TRUMBULL,for general permanent improvements,908,340,1.5,5,,renewal,levy
+3513,5,2011,Hubbard Exempted Village School District,45211,3904504,TRUMBULL,to provide for the emergency requirements of the school district,1852,1194,5.45,5,,renewal,levy
+3514,5,2011,McDonald Local School District,45260,3904504,TRUMBULL,to provide for the emergency requirements of the school district,770,661,10.75,5,,additional,levy
+3515,5,2011,Mathews Local School District,45393,3904504,TRUMBULL,for general permanent improvements,658,938,2,5,,additional,levy
+3516,5,2011,Indian Valley Local School District,45534,3904553,TUSCARAWAS,to provide for the emergency requirements of the school district,759,314,3.6,5,,renewal,levy
+3517,5,2011,Newcomerstown Exempted Village School District,45591,3904436,TUSCARAWAS,for current expenses,385,321,9.2,5,,renewal,levy
+3518,5,2011,Lebanon City School District,45617,3904436,WARREN,to avoid an operating deficit,3231,4128,8.2,5,,additional,levy
+3519,5,2011,Little Miami Local School District,45757,3904436,WARREN,to avoid an operating deficit,4838,4964,13.95,5,,additional,levy
+3520,5,2011,Marietta City School District,91397,3904517,WASHINGTON,to avoid an operating deficit,2992,2541,6.21,5,,additional,levy
+3521,5,2011,Chippewa Local School District,45955,3904436,WAYNE,for repair of school buildings improvements of school facilities & purchase of equipment,957,589,1.9,5,,renewal,levy
+3522,5,2011,Triway Local School District,46011,3904414,WAYNE,to provide for the emergency requirements of the school district,1036,534,5.1,3,,renewal,levy
+3523,5,2011,North Baltimore Local School District,46102,3904414,WOOD,to provide for the emergency requirements of the school district,257,191,2.1,10,,renewal,levy
+3524,8,2011,Jefferson Area Local School District,44917,3901572,ASHTABULA,for current operating expenses,725,470,6,5,,renewal,levy
+3525,8,2011,Brecksville-Broadview Heights City School District,46219,3904414,CUYAHOGA,for current expenses,4480,2859,6.9,100,,renewal,levy
+3526,8,2011,Cuyahoga Heights Local School District,46235,3904414,CUYAHOGA,for current expenses,600,788,6.9,100,,additional,levy
+3527,8,2011,Strongsville City School District,46243,3904414,CUYAHOGA,for current expenses,2202,8931,6.9,4,,additional,levy
+3528,8,2011,Margaretta Local School District,46243,3904414,ERIE,for current expenses,1005,893,7.75,5,,renewal,levy
+3529,8,2011,Pickerington Local School District,46284,3904414,FAIRFIELD,for current expenses,6089,5379,5.5,100,,additional,levy
+3530,8,2011,Pike-Delta-York Local School District,46409,3904414,FULTON,to provide for the emergency requirements of the school district,914,1027,5.99,3,,additional,levy
+3531,8,2011,East Guernsey Local School District,46425,3904414,GUERNSEY,to provide for the emergency requirements of the school district,770,1097,8.62,10,,additional,levy
+3532,8,2011,Mt. Healthy City School District,46458,3904414,HAMILTON,for current expenses,565,1886,7.65,100,,additional,levy
+3533,8,2011,Riverside Local School District,46516,3904414,LAKE,to provide for the emergency requirements of the school district,2645,4739,5.97,5,,additional,levy
+3534,8,2011,North Ridgeville City School District,46573,3904414,LORAIN,to provide for the emergency requirements of the school district,1873,2626,4.9,10,,additional,levy
+3535,8,2011,Black River Local School District,46706,3904414,MEDINA,to provide for the emergency requirements of the school district,432,1166,7.5,5,,additional,levy
+3536,8,2011,Wadsworth City School District,46813,3904414,MEDINA,for current expenses,2494,2986,5.9,100,,additional,levy
+3537,8,2011,Mad River Local School District,46854,3904414,MONTGOMERY,for current expenses,623,906,5.9,5,,additional,levy
+3538,8,2011,Benton-Carroll-Salem Local School District,46888,3904414,OTTAWA,to provide for the emergency requirements of the school district,1114,1246,3.9,5,,additional,levy
+3539,8,2011,Rootstown Local School District,46904,3904414,PORTAGE,to provide for the emergency requirements of the school district,1516,1273,5.96,5,,additional,levy
+3540,8,2011,Clyde-Green Springs Exempted Village School District,46946,3904414,SANDUSKY,to provide for the emergency requirements of the school district,902,1483,4.9,3,,additional,levy
+3541,8,2011,Nordonia Hills City School District,46979,3904414,SUMMIT,to provide for the emergency requirements of the school district,3636,4667,6.91,5,,additional,levy
+3542,8,2011,Stow-Munroe Falls City School District,47084,3904414,SUMMIT,to provide for the emergency requirements of the school district,2647,4066,6.57,10,,additional,levy
+3543,8,2011,Lake Local School District,47092,3904414,WOOD,for current expenses,609,1250,4.75,100,,additional,levy
+3544,11,2011,Adams County/Ohio Valley School District,47217,3904414,ADAMS,to avoid an operating deficit,1752,5253,5.9,5,,additional,levy
+3545,11,2011,Bath Local School District,47266,3904351,ALLEN,for permanent improvements,2315,1398,3.25,5,,renewal,levy
+3546,11,2011,Perry Local School District,47415,3904351,ALLEN,for permanent improvements,650,333,1.5,5,,renewal,levy
+3547,11,2011,Perry Local School District,47456,3904743,ALLEN,for current expenses,680,345,4.9,5,,renewal,levy
+3548,11,2011,Shawnee Local School District,47464,3904743,ALLEN,to provide for the emergency requirements of the school district,3991,2314,5.87,10,,renewal,levy
+3549,11,2011,Spencerville Local School District,47589,3904743,ALLEN,for permanent improvements,1067,608,1.4,5,,renewal,levy
+3550,11,2011,Ashland City School District,47597,3904743,ASHLAND,for current expenses,5250,2870,9.9,5,,renewal,levy
+3551,11,2011,Hillsdale Local School District,47837,3904743,ASHLAND,for current expenses,1628,890,4.8,2,,renewal,levy
+3552,11,2011,Ashtabula Area City School District,47878,3904743,ASHTABULA,to acquire & improve textbooks educational technology & instructional equipment,4776,3334,1.25,5,,renewal,levy
+3553,11,2011,Geneva Area City School District,47985,3904743,ASHTABULA,to provide for the emergency requirements of the school district,2040,3280,4.95,10,,additional,levy
+3554,11,2011,Grand Valley Local School District,48041,3904743,ASHTABULA,to provide for the emergency requirements of the school district,1101,1564,3.9,5,,additional,levy
+3555,11,2011,Minster Local School District,48082,3904743,8LAIZE,for permanent improvements to improve & maintain sites to remodel & repair plan facilities & to acquire & replace equipment,1141,685,0.8,5,,renewal,levy
+3556,11,2011,Bellaire Local School District,48165,3904743,BELMONT,for capital improvements including but not limited to furnishing & equipping buildings buses textbooks & general property maintenance,1514,1448,3,5,,renewal,levy
+3557,11,2011,Georgetown Exempted Village School District,48256,3904743,BROWN,for general permanent improvements,1230,900,1.5,5,,renewal,levy
+3558,11,2011,Fairfield City School District,48264,3904743,BUTLER,for current operating expenses,11027,10584,6.5,100,,additional,levy
+3559,11,2011,Lakota Local School District,48272,3904743,BUTLER,for current operating expenses,16615,19056,4.75,100,,additional,levy
+3560,11,2011,Northwestern Local School District,48298,3904743,CLARK,for permanent improvements,2193,2078,1,5,,renewal,levy
+3561,11,2011,Tecumseh Local School District,48306,3904743,CLARK,to provide for the emergency requirements of the school district,3507,2186,2.46,5,,renewal,levy
+3562,11,2011,West Clermont Local School District,48306,3904743,CLERMONT,to provide emergency requirements of the school district,8508,12772,7.9,10,,additional,levy
+3563,11,2011,Blanchester Local School District,48348,3904743,CLINTON,to improve re11ate & add to school facilities & provide equipment furnishings & site improvements therefor,1113,1124,1,5,,replacement,levy
+3564,11,2011,Coshocton City School District,48389,3904743,COSHOCTON,for current expenses,2183,1297,4.9,5,,renewal,levy
+3565,11,2011,Bedford City School District,48421,3904743,CUYAHOGA,for general permanent improvements,4842,4889,1.2,100,,additional,levy
+3566,11,2011,Berea City School District,48439,3904743,CUYAHOGA,for current expenses,8683,9383,2.5,100,,additional,levy
+3567,11,2011,Cuyahoga Heights Local School District,48447,3904743,CUYAHOGA,for current expenses,1146,1219,6.9,100,,additional,levy
+3568,11,2011,Cleveland Heights-University Heights City School District,48488,3904743,CUYAHOGA,for current expenses,10475,7802,6.9,100,,additional,levy
+3569,11,2011,Euclid City School District,48579,3904743,CUYAHOGA,for current expenses,5683,8462,5.4,100,,additional,levy
+3570,11,2011,Garfield Heights City School District,48611,3904743,CUYAHOGA,to provide for the emergency requirements of the school district,2885,4578,9,5,,additional,levy
+3571,11,2011,Independence Local School District,48678,3904743,CUYAHOGA,to construct reconstruct repair & maintain all present & future buildings & sites to furnish & equip school buildings to replace present & additional educational equipment & replace &/or acquire other equipment including school buses & other vehicles,2377,1210,1.25,5,,renewal,levy
+3572,11,2011,North Royalton City School District,48736,3904743,CUYAHOGA,to provide for the emergency requirements of the school district,7654,5280,4.4,10,,renewal,levy
+3573,11,2011,Olmsted Falls City School District,48843,3904743,CUYAHOGA,for general permanent improvements,4020,3922,2.8,5,,additional,levy
+3574,11,2011,Orange City School District,48934,3904743,CUYAHOGA,for current expenses,3592,2412,5,100,,additional,levy
+3575,11,2011,Strongsville City School District,48942,3904743,CUYAHOGA,for current expenses,8115,9278,6,100,,renewal,levy
+3576,11,2011,Delaware City School District,49080,3904743,DELAWARE,to provide for the emergency requirements of the school district,5950,5367,8.3,5,,additional,levy
+3577,11,2011,Fairfield Union Local School District,49171,3904743,FAIRFIELD,to repair remodel construct & improve buildings for school purposes to furnish & equip school buildings & improve school grounds & provide such other types of permanent improvements,1815,1669,3,5,,renewal,levy
+3578,11,2011,Walnut Township Local School District,49197,3904743,FAIRFIELD,to provide for the emergency requirements of the school district,811,708,1.9,5,,renewal,levy
+3579,11,2011,Canal Winchester Local School District,49213,3904921,FRANKLIN,to provide for the emergency requirements of the school district?,3367,3255,13.38,3,,reduction,levy
+3580,11,2011,Groveport Madison Local School District,49270,3904548,FRANKLIN,to provide for the emergency requirements of the school district?,2605,2352,14.04,5,,renewal & increase,levy
+3581,11,2011,Hilliard City School District,49437,3904548,FRANKLIN,for current expenses,15214,15004,5.9,100,,additional,levy
+3582,11,2011,Fayette Local School District,49700,3904548,FULTON,for current operating expenses,473,259,7,5,,renewal,levy
+3583,11,2011,Four County Joint Vocational School District,49767,3904548,FULTON,for general permanent improvements,22103,25549,0.2,100,,additional,levy
+3584,11,2011,Pike-Delta-York Local School District,49783,3904548,FULTON,to provide for the emergency requirements of the school district,1675,1552,5.99,3,,additional,levy
+3585,11,2011,Cardinal Local School District,49817,3904517,GE8A,to provide for the emergency requirements of the school district,1645,2198,4.5,3,,additional,levy
+3586,11,2011,Newbury Local School District,49841,3904517,GE8A,to provide for the emergency requirements of the school district,1241,1030,4.5,5,,renewal,levy
+3587,11,2011,West Ge8a Local School District,49858,3904517,GE8A,for general permanent improvements,3554,3950,0.95,5,,additional,levy
+3588,11,2011,Beavercreek City School District,49916,3904517,GREENE,to provide for the emergency requirements of the school district,9405,11818,6.7,5,,additional,levy
+3589,11,2011,Greene County Vocational School District,49973,3904517,GREENE,for general permanent improvements,28022,26060,0.75,5,,renewal,levy
+3590,11,2011,Xenia Community City School District,50039,3904517,GREENE,to avoid an operating deficit,3964,11509,4.8,5,,additional,levy
+3591,11,2011,Cambridge City School District,50112,3904517,GUERNSEY,to provide for the emergency requirements of the school district,2105,2497,6.42,5,,renewal,levy
+3592,11,2011,East Guernsey Local School District,48850,3904743,GUERNSEY,to provide for the emergency requirements of the school district,1025,1151,8.62,10,,additional,levy
+3593,11,2011,Rolling Hills Local School District,50161,3904517,GUERNSEY,to provide for the emergency requirements of the school district,2361,1192,4.79,5,,renewal,levy
+3594,11,2011,Cincinnati City School District,50187,3904517,HAMILTON,for general permanent improvements,39050,42892,7.95,100,,additional,levy
+3595,11,2011,Madeira City School District,50195,3904517,HAMILTON,for current expenses,2296,1732,6.9,100,,additional,levy
+3596,11,2011,Mt. Healthy City School District,50195,3904517,HAMILTON,for current expenses,2813,4564,7.65,100,,additional,levy
+3597,11,2011,Three Rivers Local School District,50237,3904517,HAMILTON,for current expenses,3519,2498,4.95,3,,renewal,levy
+3598,11,2011,Patrick Henry Local School District,50302,3904517,HENRY,to provide for the emergency requirements of the school district,1159,1236,6.5,3,,additional,levy
+3599,11,2011,East Holmes Local School District,50336,3904517,HOLMES,to provide for the emergency requirements of the school district,1134,1273,3.82,5,,additional,levy
+3600,11,2011,Monroeville Local School District,50500,3904517,HURON,to provide for the emergency requirements of the school district,822,609,3.3,10,,renewal,levy
+3601,11,2011,Norwalk City School District,50591,3904517,HURON,to add to re11ate remodel rehabilitate furnish & equip buildings for school purposes & improve school sites,3403,1999,3,5,,renewal,levy
+3602,11,2011,Edison Local School District,50633,3904517,JEFFERSON,for current expenses,2131,3348,9.45,100,,additional,levy
+3603,11,2011,Jefferson County Joint Vocational School District,50641,3904517,JEFFERSON,for current expenses to purchase equipment of buildings & improve buildings,10517,12136,1,10,,additional,levy
+3604,11,2011,East Knox Local School District,50716,3904517,KNOX,to provide for the emergency requirements of the school district,1239,2124,5,5,,additional,levy
+3605,11,2011,Mount Vernon City School District,50740,3904517,KNOX,to provide for the emergency requirements of the school district,5205,4250,1.38,5,,renewal,levy
+3606,11,2011,Fairport Harbor Exempted Village School District,91397,3904517,LAKE,for current operating expenses,590,552,4.9,100,,additional,levy
+3607,11,2011,Kirtland Local School District,46094,3904414,LAKE,to provide for the emergency requirement of the school district,1412,1989,4,5,,additional,levy
+3608,11,2011,Riverside Local School District,45393,3904504,LAKE,to provide for the emergency requirements of the school district,6698,7975,5.97,5,,additional,levy
+3609,11,2011,Wickliffe City School District,44289,3904368,LAKE,for current expenses,2635,2084,7.9,100,,additional,levy
+3610,11,2011,Willoughby-Eastlake City School District,48272,3904743,LAKE,to provide for the emergency requirements of the school district,11123,11218,4.99,10,,additional,levy
+3611,11,2011,North Fork School District,50229,3904517,LICKING,to provide for the emergency requirements of the school district,1327,2734,6.4,5,,additional,levy
+3612,11,2011,Bellefontaine City School District,48033,3904743,LOGAN,to provide for the emergency requirements of the school district,2510,1773,4.4,5,,renewal,levy
+3613,11,2011,Bellefontaine City School District,46813,3904414,LOGAN,for current operating expenses,2600,1674,6.05,5,,renewal,levy
+3614,11,2011,Clearview Local School District,46474,3904414,LORAIN,to provide for the emergency requirements of the school district,822,550,6.15,5,,renewal,levy
+3615,11,2011,Lorain County Joint Vocational School District,47514,3904743,LORAIN,for current expenses,34817,43968,0.75,10,,replacement,levy
+3616,11,2011,North Ridgeville City School District,48363,3904743,LORAIN,to provide for the emergency requirements of the school district,5106,5666,4.9,10,,additional,levy
+3617,11,2011,Oberlin City School District,49528,3904548,LORAIN,for general permanent improvements,2595,1200,2,5,,renewal,levy
+3618,11,2011,Oberlin City School District,44818,3901572,LORAIN,to provide for the emergency requirements of the school district,2206,1580,4.88,5,,additional,levy
+3619,11,2011,Maumee City School District,44727,3901572,LUCAS,for current expenses,4056,2952,4.9,100,,additional,levy
+3620,11,2011,Ottawa Hills Local School District,44727,3901572,LUCAS,for alterations & repairs of existing school facilities & capital improvements,1322,669,2,100,,replacement,levy
+3621,11,2011,Washington Local School District,46011,3904414,LUCAS,for current expenses,7871,6372,4.9,100,,additional,levy
+3622,11,2011,London City School District,50252,3904517,MADISON,to provide for the emergency requirements of the school district,1838,2905,8.5,5,,additional,levy
+3623,11,2011,Canfield Local School District,44214,3904368,MAHONING,for current expenses,3743,4675,4.9,5,,additional,levy
+3624,11,2011,Western Reserve Local School District,44230,3904368,MAHONING,to avoid an operating deficit,961,782,3.9,10,,renewal,levy
+3625,11,2011,Elgin Local School District,48009,3904743,3ION,to avoid an operating deficit,1507,1198,5.26,5,,renewal,levy
+3626,11,2011,Marion City School District,49080,3904743,3ION,to provide for the emergency requirements of the school district,3870,3221,5.47,5,,renewal,levy
+3627,11,2011,Ridgedale Local School District,50039,3904517,3ION,to provide for the emergency requirements of the school district,1164,701,4.99,5,,renewal,levy
+3628,11,2011,River Valley Local School District,50336,3904517,3ION,to provide for permanent improvements including textbooks technology and transportation,1697,2881,1.5,5,,additional,levy
+3629,11,2011,Tri Rivers Joint Vocational School District,44818,3901572,3ION,to purchase a site or enlargement thereof and for the erection and equipment of buildings and enlarging improving or rebuilding thereof,9349,20710,0.5,10,,additional,levy
+3630,11,2011,Tri Rivers Joint Vocational School District,43513,3904349,3ION,for current operating expenses,16642,13579,1.3,5,,renewal,levy
+3631,11,2011,Black River Local School District,43562,3904349,MEDINA,to provide for the emergency requirements of the school district,866,2280,3.8,5,,additional,levy
+3632,11,2011,Buckeye Local School District,43596,3904349,MEDINA,to provide for the emergency requirements of the school district,2306,3210,7.9,5,,additional,levy
+3633,11,2011,Cloverleaf Local School District,43612,3904349,MEDINA,to provide for the emergency requirements of the school district,2889,4627,6.5,10,,additional,levy
+3634,11,2011,Wadsworth City School District,43703,3904365,MEDINA,for current expenses,5467,5084,4.9,100,,additional,levy
+3635,11,2011,Milton-Union Exempted Village School District,43810,3904365,MIAMI,for current operating expenses,2036,1600,17,5,,renewal,levy
+3636,11,2011,Tipp City Exempted Village School District,43836,3904365,MIAMI,to provide for the emergency requirements of the school district,3694,2139,9.61,5,,renewal of 2 existing levies,levy
+3637,11,2011,Switzerland of Ohio Local School District,43877,3904365,MONROE,for improvements and equipment,2629,3295,2.5,3,,renewal,levy
+3638,11,2011,Huber Height City School District,43919,3904365,MONTGOMERY,for current operating expenses,3385,8900,8,100,,additional,levy
+3639,11,2011,Jefferson Township Local School District,44040,3904365,MONTGOMERY,for current operating expenses,1101,842,5.5,100,,renewal,levy
+3640,11,2011,Kettering City School District,44073,3904365,MONTGOMERY,to construct school building improvements & provide equipment furnishings & site improvements,11559,7622,0.6,5,,renewal,levy
+3641,11,2011,Mad River Local School District,44081,3904365,MONTGOMERY,for current expenses,2314,2650,5.9,100,,additional,levy
+3642,11,2011,Miami Valley Career Technology Center School District,44131,3904368,MONTGOMERY,for current operating expenses and improvement to school buildings and sites including equipment and furnishings,56567,56566,2.18,10,,replacement,levy
+3643,11,2011,Northridge Local School District,44180,3904368,MONTGOMERY,for current operating expenses,1517,922,6.95,100,,additional,levy
+3644,11,2011,Trotwood-Madison City School District,44230,3904368,MONTGOMERY,for current expenses,2768,3059,4,100,,additional,levy
+3645,11,2011,Vandalia-Butler City School District,44255,3904368,MONTGOMERY,for current operating expenses and general ongoing permanent improvements,4159,4997,6.99,100,,additional,levy
+3646,11,2011,West Carrollton City School District,#N/A,#N/A,MONTGOMERY,for current operating expenses,3649,3752,2.25,100,,additional,levy
+3647,11,2011,Benton-Carroll-Salem Local School District,48850,3904743,OTTAWA,to provide for the emergency requirements of the school district,2068,2366,3.9,5,,additional,levy
+3648,11,2011,Genoa Area Local School District,48850,3904743,OTTAWA,to make permanent improvements for the school district including but not limited to rehabilitating & improving school buildings & school heating facilities providing furniture furnishings & equipment for school purposes & improving school sites,1605,1646,1.35,100,,replacement,levy
+3649,11,2011,Antwerp Local School District,44396,3904368,PAULDING,to construct or acquire permanent improvements including improving constructing re11ating rehabilitating remodeling furnishing & equipping existing buildings & facilities & their sites for school purposes,686,445,2.9,5,,renewal,levy
+3650,11,2011,Aurora City School District,44487,3904368,PORTAGE,for current expenses,4327,1816,7.33,5,,renewal,levy
+3651,11,2011,Crestwood Local School District,44529,3904368,PORTAGE,for general permanent improvements,3304,1639,3.5,5,,renewal,levy
+3652,11,2011,Field Local School District,44545,3904368,PORTAGE,for current operating expenses,2282,3727,6,5,,additional,levy
+3653,11,2011,Maplewood Joint Vocational School District,44594,3901572,PORTAGE,for current expenses,20114,16004,3,10,,renewal,levy
+3654,11,2011,Streetsboro City School District,44602,3901572,PORTAGE,for current operating expenses at a rate of 3.6 mills & 1.5 mills for the acquisition construction enlargement re11ation & financing of general on-going permanent improvements,3361,1818,5.1,5,,renewal,levy
+3655,11,2011,Waterloo Local School District,44685,3901572,PORTAGE,for current expenses,1314,1769,5,100,,additional,levy
+3656,11,2011,College Corner Local School District,44685,3901572,PREBLE,for improvements re11ations & additions to school facilities & providing equipment furnishings & site improvements therefor,117,68,6.5,5,,replacement,levy
+3657,11,2011,Tri-County North Local School District,44735,3901572,PREBLE,to improve & re11ate school buildings & provide equipment furnishings & site improvements,1339,721,2,5,,renewal,levy
+3658,11,2011,Tri-County North Local School District,44743,3901572,PREBLE,to provide for the emergency requirements of the school district,1329,731,5.3,10,,renewal,levy
+3659,11,2011,Lexington Local School District,44768,3901572,RICHLAND,to avoid an operating deficit,3523,3298,7.6,5,,additional,levy
+3660,11,2011,Lucas Local School District,44909,3901572,RICHLAND,to avoid an operating deficit,858,504,4.2,5,,renewal,levy
+3661,11,2011,Plymouth-Shiloh Local School District,44917,3901572,RICHLAND,to avoid an operating deficit,479,504,4.6,5,,renewal,levy
+3662,11,2011,Shelby City School District,44941,3901572,RICHLAND,to provide for the emergency requirements of the school district,2357,2293,4.5,5,,renewal,levy
+3663,11,2011,Clyde-Green Springs Exempted Village School District,45104,3904504,SANDUSKY,to provide for the emergency requirements of the school district,1634,2668,4.9,3,,additional,levy
+3664,11,2011,Old Fort Local School District,45179,3904504,SENECA,for current operating expenses & general on-going permanent improvements,501,371,6.3,5,,renewal,levy
+3665,11,2011,Tiffin City School District,45245,3904504,SENECA,for current expenses,3513,3843,4.9,100,,additional,levy
+3666,11,2011,Canton City School District,45336,3904504,STARK,for current expenses,7570,6101,7.9,100,,additional,levy
+3667,11,2011,Minerva Local School District,45344,3904504,STARK,to provide for the emergency requirements of the school district,2114,1699,2.6,10,,renewal,levy
+3668,11,2011,Osnaburg Local School District,45369,3904504,STARK,for current operating expenses,684,1364,11,100,,additional,levy
+3669,11,2011,Sandy Valley Local School District,45542,3904436,STARK,to provide for the emergency requirements of the school district,1565,1210,5.3,5,,renewal,levy
+3670,11,2011,Akron City School District,45583,3904513,SUMMIT,for current expenses,21898,22101,5.5,100,,additional,levy
+3671,11,2011,Barberton City School District,45609,3904436,SUMMIT,to provide for the emergency requirements of the school district,2162,4424,8.74,5,,additional,levy
+3672,11,2011,Copley-Fairlawn City School District,45666,3904436,SUMMIT,to remodel improve & rehabilitate school buildings & other structures for school purposes improve school sites furnish & equip school buildings & other structures & acquire equipment textbooks & motor vehicles in connection with school buildings of other structures,5144,2700,2,100,,renewal,levy
+3673,11,2011,Nordonia Hills City School District,45773,3904436,SUMMIT,for current expenses,8220,6407,6,100,,additional,levy
+3674,11,2011,Norton City School District,45823,3904436,SUMMIT,for general permanent improvements,2791,2430,3,5,,renewal,levy
+3675,11,2011,Stow-Munroe Falls City School District,45831,3904436,SUMMIT,to provide for the emergency requirements of the school district,8237,7589,6.57,10,,additional,levy
+3676,11,2011,Woodridge Local School District,45864,3904436,SUMMIT,to provide for the emergency requirements of the school district,2883,3107,5.88,10,,additional,levy
+3677,11,2011,Howland Local School District,45864,3904436,TRUMBULL,to provide for the emergency requirements of the school district,3727,5187,4.9,5,,additional,levy
+3678,11,2011,Lakeview Local School District,45872,3904436,TRUMBULL,to re11ate improve remodel construct add to furnish & equip school facilities & improving school sites,3036,2141,1,5,,renewal,levy
+3679,11,2011,New Philadelphia City School District,45880,3904436,TUSCARAWAS,to provide for the emergency requirements of the school district,3963,3277,7.3,5,,renewal,levy
+3680,11,2011,Strasburg-Franklin Local School District,46011,3904414,TUSCARAWAS,to provide for the emergency requirements of the school district,918,572,6.9,5,,renewal,levy
+3681,11,2011,Crestview Local School District,46177,3904414,VANWERT,for permanent improvements,945,623,2,5,,renewal,levy
+3682,11,2011,Crestview Local School District,46193,3904414,VANWERT,to provide for the emergency requirements of the school district,941,636,2.5,5,,renewal,levy
+3683,11,2011,Lebanon City School District,44917,3901572,WARREN,to avoid an operating deficit,6245,6094,3.78,5,,additional,levy
+3684,11,2011,Little Miami Local School District,46235,3904414,WARREN,to avoid an operating deficit,6688,6618,13.95,5,,additional,levy
+3685,11,2011,Bryan City School District,46235,3904414,WILLIAMS,to provide for the emergency requirements of the school district,2478,1873,6.2,5,,renewal,levy
+3686,11,2011,Stryker Local School District,46243,3904414,WILLIAMS,to provide for the emergency requirements of the school district,545,606,5.8,5,,additional,levy
+3687,11,2011,Lake Local School District,46391,3904414,WOOD,for current expenses,1893,2246,4.75,5,,additional,levy
+3688,2,2009,Edgewood City School District,46094,3904414,BUTLER,to pay the local share of school construction under the State of Ohio Classroom Facilities Assistance Program; to acquire land & other improvements to school facilities equipment furnishings site improvements & all necessary appurtenances,1646,1523,4.53,28,26000000,,bond
+3689,2,2009,Wellington Exempted Village School District,45658,3904436,LORAIN,to construct furnish equip add to re11ate remodel rehabilitate & improve school district buildings & facilities & clear improve & equip real estate for school purposes including constructing furnishing & equipping a new K-12 school building a new auditorium & a new stadium,1002,1727,8.48,27,26741217,,bond
+3690,2,2009,Columbus Grove Local School District,49312,3904548,PUTNAM,to participate in he Ohio School Facilities commission classroom Facilities Assistance Program including construction re11ating improving & constructing additions to school facilities to furnish & equip the same; improve the sites thereof & acquire land & interests in land,938,654,7.57,28,9300000,,bond
+3691,2,2009,Kalida Local School District,49346,3904548,PUTNAM,to construct add to re11ate & improve school buildings & facilities including space for school & community use health & safety upgrades & improved access for the disabled; to furnish & equip the same including science equipment & technology for classroom instruction; landscape & improve sites thereof; & acquire land & interests in land,691,276,6.8,6,2182830,,bond
+3692,2,2009,Lake Local School District,50690,3904517,STARK,to construct add to re11ate remodel furnish equip & otherwise improve school district buildings & facilities & to acquire improve & equip real estate for school purposes,1621,3795,4.4,28,29864427,,bond
+3693,2,2009,Vantage Career Center Joint Vocational School District,47472,3904743,VANWERT,to pay the local share of school construction under the State of Ohio Classroom Facilities Assistance Program; make other improvements to school facilities including re11ations additions equipment furnishings & sites improvements & all necessary appurtenances thereto,2731,3647,1.2,28,17869000,,bond
+3694,2,2009,North Central School Local School District,50641,3904517,WILLIAMS,to pay the local share of school construction under the State of Ohio Classroom Facilities Assistance program,390,982,8.2,27,10575409,,bond
+3695,5,2009,Hillsdale Local School District,45823,3904436,ASHLAND,to construct a school facility under the Classroom Facilities Assistance program of the Ohio School Facilities Commission with related facilities & local initiatives; to furnish & equip the same & improve the sites thereof,617,1135,5.6,28,12500000,,bond
+3696,5,2009,Clermont Northeastern Local School District,46326,3904414,CLERMONT,for new construction improvements re11ations & additions to school facilities & to provide equipment furnishings & site improvements therefor,1039,1786,5.35,28,26200000,,bond
+3697,5,2009,Crestline Exempted Village School District,45344,3904504,CRAWFORD,to construct school facilities under the State of Ohio Classroom Facilities Assistance Program; to furnish & equip the same; improving the sites thereof,724,613,8.9,28,9913151,,bond
+3698,5,2009,Xenia City Community School District,45146,3904504,GREENE,to construct school facilities under the State of Ohio Classroom Facilities Assistance Program & related facilities including science & technology labs & community meeting space; to re11ate improve & construct additions to existing facilities; furnish & equip the same including enhanced safety & security devices; improving the sites thereof & to acquire land & interests in land,3032,4171,7.4,28,79950000,,bond
+3699,5,2009,North Fork Local School District,48025,3904743,LICKING,to construct a new school facility under the Classroom Facilities Assistance Program of the Ohio School Facilities Commission with related facilities & local initiatives; to furnish & equip the same & improve the sites thereof,660,1606,2.5,28,7900000,,bond
+3700,5,2009,Switzerland of Ohio Local School District,48652,3904743,MONROE,to pay the local share of school construction under the State of Ohio Classroom Facilities Assistance Program & other improvements to school facilities including equipment furnishings building demolition & other site improvements & all necessary appurtenances thereto,3832,2646,7.69,28,35000000,,bond
+3701,5,2009,Twin Valley Community Local School District,49296,3904548,PREBLE,to pay the local share of school construction under the State of Ohio Classroom Facilities Assistance Program & pay for Ohio School Facilities Commission required locally funded initiatives,485,660,1.7,28,2936146,,bond
+3702,5,2009,Russia Local School District,49817,3904517,SHELBY,to pay the cost of locally funded initiatives for the State of Ohio Classroom Facilities Assistance Program including equipment furnishings building demolition & other site improvements & all necessary appurtenances thereto,204,355,3.13,28,1972675,,bond
+3703,5,2009,Manchester Local School District,50005,3904517,SUMMIT,to construct furnish equip add to re11ate remodel rehabilitate & improve school district buildings & facilities & to clear improve & equip real estate for school purposes,979,1260,8.46,28,26594050,,bond
+3704,5,2009,Weathersfield Local School District,50252,3904517,TRUMBULL,to construct add to re11ate remodel furnish equip & otherwise improve school district buildings & facilities including expanding & improving facilities as 5 be required for participation in the State of Ohio Classroom Facilities Assistance Program & to acquire improve & equip their sites,541,686,6.4,28,8400000,,bond
+3705,5,2009,Tuscarawas Valley Local School District,50302,3904517,TUSCARAWAS,to construct add to re11ate remodel furnish equip & otherwise improve school district buildings & facilities; to acquire improve & equip their sites including constructing furnishing & equipping a new PK-5 elementary school building,724,1279,2.9,28,9198000,,bond
+3706,5,2009,North Central Local School District,50641,3904517,WILLIAMS,to pay the local share of school construction under the State of Ohio Classroom Facilities Assistance Program,458,975,8.1,28,10575409,,bond
+3707,5,2009,North Baltimore Local School District,50708,3904517,WOOD,to construct re11ate remodel rehabilitate add to furnish equip & otherwise improve school district buildings & facilities & to acquire improve & equip real estate for school purposes,540,533,7.57,28,7986000,,bond
+3708,5,2009,Carey Exempted Village School District,45260,3904504,WYANDOT,to pay the local share of school construction under the State of Ohio Classroom Facilities Assistance Program including construction of a new PK Through 12 facility & demolition of existing facility; together with all necessary appurtenances thereto,522,1033,9,28,12115147,,bond
+3709,8,2009,Findlay City School District,43984,3904365,HANCOCK,to construct school facilities under the Exceptional Need Program of the Ohio School Facilities Commission with related facilities & local initiatives; to furnish & equip the same improve the sites thereof & acquire land & interests in land,3263,3746,4.4,28,54195000,,bond
+3710,8,2009,Buckeye Local School District,48470,3904743,JEFFERSON,to construct school facilities to re11ate improve & construct additions to school facilities under the Classroom Facilities Assistance Program of the Ohio School Facilities Commission; to furnish & equip the same; improve the sites thereof & acquire land & interests in land in connection therewith,880,2287,5.2,28,25000000,,bond
+3711,8,2009,Russia Local School District,49817,3904517,SHELBY,to pay the local share of school construction under the State of Ohio Classroom Facilities Assistance Program & required locally funded initiatives,372,185,3.08,28,1940722,,bond
+3712,11,2009,Northeastern Local School District,46722,3904414,CLARK,to pay local share of school construction under the State of Ohio Classroom Facilities Assistance Program,4167,5159,7.572,37,65844040,,bond
+3713,11,2009,Northwestern Local School District,50575,3904517,CLARK,to pay local share of school construction under the State of Ohio Classroom Facilities Assistance Program,2413,2025,7.36,28,28240110,,bond
+3714,11,2009,Batavia Local School District,46300,3904414,CLERMONT,for new construction re11ations & other improvements to school facilities equipment furnishings site improvements & all necessary appurtenances including the local share of school construction under the State of Ohio Classroom Facilities Assistance Program,1379,1528,3.7,28,13960000,,bond
+3715,11,2009,Euclid City School District,43950,3904365,CUYAHOGA,to construct furnish & equip 4 new elementary schools under the State of Ohio Classroom Facilities Assistance Program & construct furnish & equip and otherwise improve school district buildings & facilities & clear improve & equip their sites,6475,6400,3.4,28,40300000,,bond
+3716,11,2009,Bloom-Carroll Local School District,46862,3904414,FAIRFIELD,to construct a new middle school & re11ate & remodel existing facilities including site acquisition & improvements equipment & furnishings together with all appurtenances thereto,2136,2134,5.8,28,26500000,,bond
+3717,11,2009,Cedar Cliff Local School District,47258,3904351,GREENE,to pay local share of school construction under the State of Ohio Classroom Facilities Assistance Program including construction of a new PK-12 school building other improvements to school facilities together with equipment furnishings landscaping & all necessary appurtenances thereto,928,720,8.5,28,11740000,,bond
+3718,11,2009,Xenia Community City School District,45153,3904504,GREENE,to construct school facilities under the State of Ohio Classroom Facilities Program & related facilities including science & technology labs & community meeting space; to re11ate improve & construct additions to existing facilities; furnish & equip the same; including enhanced safety & security devices; improve the sites thereof; & acquire land & interests in land,5942,5612,2.7,38,34670000,,bond
+3719,11,2009,Cory-Rawson Local School District,47431,3904743,HANCOCK,to construct school facilities under the State of Ohio Classroom Facilities Program; to furnish & equip the same & improve the sites thereof,963,686,5,29,6287899,,bond
+3720,11,2009,Findlay City School District,43984,3904365,HANCOCK,to construct school facilities under the Exceptional Needs Program of the Ohio School Facilities Commission with related facilities & local initiatives; to furnish & equip the same; improve the sites thereof & acquire land & interests in land,6329,6004,4.3,28,54195000,,bond
+3721,11,2009,Bellefontaine City School District,43588,3904349,LOGAN,to construct school facilities & locally funded initiatives under the Classroom Facilities Assistance Program of the State of Ohio Classroom Facilities Commission,2398,1804,2.8,38,14580000,,bond
+3722,11,2009,Avon Lake City School District,48124,3904743,LORAIN,to construct improve furnish & equip a high school athletics stadium with related site improvements & appurtenances thereto; to construct improve furnish & equip a transportation facility with related improvement & appurtenances thereto; & acquire interests in land necessary in connection therewith,4132,3943,0.39,28,5500000,,bond
+3723,11,2009,Avon Lake City School District,48124,3904743,LORAIN,to construct improve furnish & equip school facilities with related site improvements & appurtenances thereto,4813,3261,0.93,28,13000000,,bond
+3724,11,2009,Wellington Exempted Village School District,45658,3904436,LORAIN,to construct furnish equip add to re11ate remodel rehabilitate & improve school district buildings & facilities; to clear improve & equip real estate for school purposes including constructing furnishing & equipping a new 3-12 school building,1544,1836,4.44,37,17652853,,bond
+3725,11,2009,Madison-Plains Local School District,48272,3904743,MADISON,to pay the local share of school construction under the State of Ohio Classroom Facilities Assistance Program,1263,1813,7.17,28,24950154,,bond
+3726,11,2009,Austintown Local School District,48298,3904743,MAHONING,to pay the local share of school construction under the State of Ohio Classroom Facilities Assistance Program,5270,6641,2.4,37,26862099,,bond
+3727,11,2009,Elgin Local School District,48413,3904743,MARION,to construct school facilities & locally funded initiatives under the Classroom Facilities Assistance Program of the State of Ohio Classroom Facilities Commission; to furnish & equip the same; improve the sites thereof & acquire interests in land necessary in connection therewith,1462,1347,7.49,28,16630000,,bond
+3728,11,2009,Upper Valley Joint Vocational School District,47522,3904743,MIAMI,to construct re11ate remodel rehabilitate add to furnish equip & otherwise improve school district buildings & sites by paying the local share of costs under the State of Ohio Vocational Facilities Assistance Program,17462,17140,0.46,9,7287961,,bond
+3729,11,2009,Port Clinton City School District,44651,3901572,OTTAWA,to construct re11ate remodel add to furnish equip & otherwise improve school district buildings & facilities & acquire clear & improve their sites including but not limited to constructing furnishing & equipping a new middle school & adding to re11ating & otherwise improving Bataan Memorial Elementary School,2916,2534,3.63,37,42000000,,bond
+3730,11,2009,Circleville City School District,43760,3904365,PICKAWAY,to pay the local share of school construction under the State of Ohio Classroom Facilities Assistance Program,2060,2255,7.36,37,37917624,,bond
+3731,11,2009,Logan Elm Local School District,49080,3904743,PICKAWAY,to construct school facilities & locally funded initiatives under the Classroom Facilities Assistance Program of the Ohio School Facilities Commission; furnish & equip the same improve the sites thereof & acquire interests in land necessary in connection therewith,1737,2951,3.8,37,21395000,,bond
+3732,11,2009,Crestwood Local School District,49189,3904743,PORTAGE,to construct re11ate remodel add to furnish equip & otherwise improve school district buildings & facilities & clear & improve their sites,2255,2859,2.66,28,12761109,,bond
+3733,11,2009,Eaton Community City School District,43935,3904365,PREBLE,to pay the local share of school construction under the State of Ohio Classroom Facilities Assistance Program (including construction of a new elementary building & a new middle school building) & other improvements to school facilities including technology site & athletic field improvements together with equipment furnishings landscaping & all necessary appurtenances thereto,2380,2468,1.4,28,6850000,,bond
+3734,11,2009,Twin Valley Community Local School District,49296,3904548,PREBLE,to pay the local share of construction under the State of Ohio Classroom Facilities Assistance Program,1005,1043,1.6,28,2936146,,bond
+3735,11,2009,Madison Local School District,49452,3904548,RICHLAND,to pay local share of school construction under the State of Ohio Classroom Facilities Assistance Program for a segmented project (including construction of a new elementary/middle school building) an auditorium & other improvements to school facilities together with equipment furnishings landscaping & all necessary appurtenances thereto,2675,3917,7,28,46000000,,bond
+3736,11,2009,Shelby City School District,44776,3901572,RICHLAND,to construct add to re11ate remodel furnish equip & otherwise improve school district buildings & facilities & improve & equip real estate for school purposes,2089,2789,6.9,28,24645000,,bond
+3737,11,2009,Bellevue City School District,43596,3904349,SANDUSKY,to construct school facilities & locally funded initiatives under the Classroom Facilities Assistance Program of the Ohio School Facilities Commission; furnish & equip the same improve the sites thereof & acquire interests in land necessary in connection therewith,2394,2339,4.9,38,23410000,,bond
+3738,11,2009,Woodmore School District,49577,3904548,SANDUSKY,to pay the local share of the cost of constructing furnishing & equipping a new elementary/middle school building under the State of Ohio Exceptional Needs school facilities assistance program & to construct add to furnish equip and otherwise improve school district buildings & facilities & clearing improving & equipping their sites,1276,1522,6.97,37,19495249,,bond
+3739,11,2009,Fostoria City School District,43992,3904365,SENECA,to pay the local share of construction under the State of Ohio Classroom Facilities Assistance Program,870,2747,2.76,28,8418096,,bond
+3740,11,2009,Hopewell-Loudon Local School District,49700,3904548,SENECA,to construct locally funded initiatives under the Classroom Facilities Assistance Program of the Ohio School Facilities Commission; to furnish & equip the same; improve the sites thereof;& acquire interests in land in connection therewith,795,1188,2.18,38,4000000,,bond
+3741,11,2009,Hopewell-Loudon Local School District,49700,3904548,SENECA,to construct school facilities & locally funded initiatives under the Classroom Facilities Assistance Program of the Ohio School Facilities Commission; to furnish & equip the same & improve the sites thereof; to acquire interests in land in connection therewith,854,1175,5.98,38,10975000,,bond
+3742,11,2009,Old Fort Local School District,49726,3904548,SENECA,to construct school facilities under the Classroom Facilities Assistance Program of the Ohio School Facilities Commission with related facilities & local initiatives; to furnish & equip the same & improve the sites thereof,377,541,5.89,38,4855358,,bond
+3743,11,2009,Manchester Local School District,50005,3904517,SUMMIT,to construct furnish equip add to re11ate remodel rehabilitate & improve school district buildings & facilities & clear improve & equip real estate for school purposes,1817,1895,6.98,37,26594050,,bond
+3744,11,2009,Norton City School District,44552,3904368,SUMMIT,to construct furnish equip add to re11ate remodel rehabilitate & improve school district buildings & facilities & clear improve & equip real estate for school purposes,2205,2954,6.98,37,42624324,,bond
+3745,11,2009,Matthews Local School District,48850,3904743,TRUMBULL,to construct furnish & equip a new K-12 school building & clearing improving & equip its site & construct furnish equip & otherwise improve other school district facilities & clearing improving & equipping their sites,1269,1798,8.1,37,22500000,,bond
+3746,11,2009,Weathersfield Local School District,50252,3904517,TRUMBULL,to construct add to re11ate remodel furnish equip & otherwise improve school district buildings & facilities including expanding & improving facilities as 5 be required for participation in the State of Ohio Classroom Facilities Assistance Program & acquire improve & equip their sites,962,1039,6.4,28,8400000,,bond
+3747,11,2009,Vantage Career Center Joint Vocational School District,47472,3904743,VANWERT,to pay the local share of school construction under the State of Ohio Vocational Facilities Assistance Program other re11ations additions equipment furnishings & site improvements and all necessary appurtenances thereto,10782,9461,1.05,28,17869000,,bond
+3748,11,2009,Marietta City School District,45476,3904504,WASHINGTON,to construct add to re11ate & improve school facilities site acquisition & provide equipment furnishings & site improvements therefore,3174,4382,6.04,37,48000000,,bond
+3749,11,2009,Triway Local School District,50591,3904517,WAYNE,to construct furnish & equip a new 6-12 school building & to clear improve & equip its sites,1773,2779,4.5,28,18000000,,bond
+3750,11,2009,Eastwood Local School District,50674,3904517,WOOD,to construct a school facility & related facilities under the Classroom Facilities Assistance Program of the Ohio School Facilities Commission; to furnish & equip the same & improve the sites thereof,1504,2180,2.64,38,10425000,,bond
+3751,5,2010,Ashtabula County Joint Vocational School District,43513,3904349,ASHTABULA,to construct re11ate remodel rehabilitate add to furnish equip & otherwise improve school district buildings & sites; to pay the local share of costs under the State of Ohio Vocational School Facilities Assistance Program,9063,9635,0.61,25,17409000,,bond
+3752,5,2010,Beachwood City School District,43554,3904349,CUYAHOGA,to construct re11ate remodel add to furnish equip & otherwise improve school district buildings & facilities & clear & improve their sites including re11ating remodeling & otherwise improve the high school,2544,1020,2.5,30,30000000,,bond
+3753,5,2010,Rocky River City School District,44701,3901572,CUYAHOGA,to construct re11ate remodel add to furnish equip & otherwise improve the school district buildings & facilities & to clear & improve their sites,3549,2722,3.2,34,42902050,,bond
+3754,5,2010,Westlake City School District,45062,3904504,CUYAHOGA,to construct re11ate remodel add to furnish equip & otherwise improve the school district buildings & facilities & to acquire clear & improve their sites,5112,4074,3.4,34,84056066,,bond
+3755,5,2010,Madison-Plains Local School District,48272,3904743,MADISON,to pay the local share of school construction under the State of Ohio Classroom Facilities Assistance Program,1193,1391,6.99,28,24950154,,bond
+3756,5,2010,Circleville City School District,43760,3904365,PICKAWAY,to pay the local share of school construction under the State of Ohio Classroom Facilities Assistance Program,1815,1792,7.59,37,37917624,,bond
+3757,5,2010,Green Local School District,50559,3904517,WAYNE,to pay the local share of school construction under the State of Ohio Classroom Facilities Assistance Program & to re11ate furnish equip and otherwise improve school district buildings & facilities & acquire & improve their sites,1246,1063,4.75,37,12950000,,bond
+3758,5,2010,Triway Local School District,50591,3904517,WAYNE,to construct furnish & equip a new 6-12 school building & clear improve & equip its site,1687,2244,4.5,28,18000000,,bond
+3759,8,2010,Northeastern Local School District,46722,3904414,CLARK,to pay the local share of school construction under the State of Ohio Classroom Facilities Assistance Program & required locally funded initiatives,2638,3764,7.876,28,58934558,,bond
+3760,8,2010,Madison-Plains Local School District,48272,3904743,MADISON,to pay the local share of school construction under the State of Ohio Classroom Facilities Assistance Program,1149,1369,6.99,28,24950154,,bond
+3761,11,2010,Berea City School District,43612,3904349,CUYAHOGA,to construct furnish & equip a new high school; to re11ate remodel rehabilitate add to furnish equip & otherwise improve school district buildings & facilities & acquire clear & improve their sites,8951,9971,2.95,37,87000000,,bond
+3762,11,2010,Brooklyn City School District,43653,3904365,CUYAHOGA,to construct re11ate remodel rehabilitate add to furnish equip & otherwise improve school district buildings & facilities & acquire clear & improve real estate for school purposes,1337,2404,4.57,36,29700000,,bond
+3763,11,2010,Defiance City School District,43869,3904365,DEFIANCE,to construct school facilities & add to school facilities under the Classroom Facilities Assistance Program of the Ohio School Facilities Commission; to re11ate & improve existing school facilities; to furnish & equip the same & improve the sites thereof,1951,3408,3.95,37,18525000,,bond
+3764,11,2010,Groveport Madison Local School District,46979,3904414,FRANKLIN,to construct & improve school facilities & locally funded initiatives under the Classroom Facilities Assistance Program of the Ohio School Facilities Commission; to furnish & equip the same; to improve the sites thereof; & acquire land & interests in land as necessary,5593,6707,6.7,38,113728904,,bond
+3765,11,2010,West Ge8a Local School District,47225,3904722,GE8A,to construct re11ate remodel rehabilitate add to furnish equip & otherwise improve school district buildings & facilities & to acquire clear & improve their sites,3489,4231,1.12,28,12000000,,bond
+3766,11,2010,Deer Park Community City School District,43851,3904365,HAMILTON,to construct a new elementary school & re11ate the junior/senior high school together with necessary furnishings equipment & landscaping & all necessary appurtenances thereto,2261,2363,5.87,38,30000000,,bond
+3767,11,2010,Sycamore Community City School District,44867,3901572,HAMILTON,to construct add to re11ate & improve Maple Dale Elementary School & other school facilities & provide furnishings equipment & site improvements therefor,8336,6384,0.61,25,17500000,,bond
+3768,11,2010,Columbia Local School District,48140,3904743,LORAIN,to construct re11ate remodel add to furnish equip & otherwise improve school district buildings & facilities & improve & equip sites for such buildings & facilities,1460,1490,1.85,28,6000000,,bond
+3769,11,2010,Keystone Local School District,48165,3904743,LORAIN,to construct furnish & equip a new middle school re11ate remodel rehabilitate add to furnish equip & otherwise improve school district buildings & facilities & acquire clear & improve their sites,2218,1899,2.19,37,11500000,,bond
+3770,11,2010,Franklin City School District,44008,3904365,WARREN,to construct a new high school together with land acquisition necessary furnishings equipment & landscaping & all necessary appurtenances thereto,2502,3371,4.2,38,35000000,,bond
+3771,11,2010,Chippewa Local School District,50534,3904517,WAYNE,to pay the local share of constructing furnishing & equipping a new elementary/middle school building & re11ating the existing Chippewa High School under the State of Ohio Classroom Facilities Assistance Program & to construct add to furnish equip & otherwise improve school district buildings & facilities & to clear improve & equip their sites,1715,2094,6.3,35,23012572,,bond
+3772,11,2010,Rossford Exempted Village School District,45609,3904436,WOOD,to construct new school facilities & related facilities including a high school & middle school; to furnish & equip the same; & improve the sites thereof,1721,3255,5.99,37,50250000,,bond
+3773,2,2011,Columbia Local School District,48140,3904743,LORAIN,to construct re11ate remodel add to furnish equip & otherwise improve school district buildings & facilities & improve & equip the sites for such buildings & facilities,944,873,1.85,28,6000000,,bond
+3774,5,2011,Bath Local School District,45765,3904436,ALLEN,to pay the cost of constructing a new PK-5 elementary building & demolishing the old elementary building together with furnishings equipment landscaping & all necessary appurtenances,836,1000,5.87,37,25100000,,bond
+3775,5,2011,United Local School District,46458,3904414,COLUMBIANA,to construct school facilities under the Classroom Facilities Assistance Program of the Ohio School Facilities Commission & locally funded initiatives; furnish & equip the same; improve the sites thereof; & acquire interest in land necessary in connection therewith,957,1082,3.92,37,9750000,,bond
+3776,5,2011,Deer Park Community City School District,43851,3904365,HAMILTON,to construct a new elementary school & re11ate the junior/senior high school together with necessary furnishings equipment & landscaping & all necessary appurtenances thereto,980,1286,5.86,38,30000000,,bond
+3777,5,2011,Sheffield-Sheffield Lake City School District,44768,3901572,LORAIN,to construct re11ate remodel rehabilitate add to furnish equip & otherwise improve school district buildings & facilities & clearing & improving real estate for school district purposes,1116,921,4.94,34,31000000,,bond
+3778,11,2011,Buckeye Local School District,48470,3904743,ASHTABULA,to construct re11ate remodel rehabilitate add to furnish equip & otherwise improve school district buildings & facilities & clear & improve their sites,1397,2549,5,36,25350000,,bond
+3779,11,2011,United Local School District,46458,3904414,COLUMBIANA,to construct school facilities under the Classroom Facilities Assistance Program of the Ohio School Facilities Commission & locally funded initiatives; to furnish & equip the same; to improve the sites thereof; & acquire interests in land necessary in connectin therewith,1198,1806,3.92,37,9750000,,bond
+3780,11,2011,Vermilion Local School District,46821,3904414,ERIE,to construct add to re11ate & improve existing facilities; furnish & equip the same & improve the sites thereof,1979,3380,3.9827,37,33000000,,bond
+3781,11,2011,Avon Local School District,48116,3904743,LORAIN,to construct re11ate remodel enlarge furnish equip & otherwise improve school district buildings & facilities & to acquire improve & equip the sites for such buidings & facilities,3790,3961,2.25,32,32000000,,bond
+3782,11,2011,Fort Recovery Local School District,48595,3904743,MERCER,to construct improvements & re11ations to the existing high school (including demolition of the 1935 section HVAC roofing electrical & technology improvements) & provide equipment furnishings & site improvements,902,676,2.7,23,3400000,,bond
+3783,11,2011,Bryan City School District,43679,3904365,WILLIAMS,to pay the cost in anticipation of partial Ohio School Facilities Commission reimbursement of constructing a new PK-4 elementary school building & demolishing Lincoln & Washington Elementary school buildings together with furnishings equipment landscaping & all necessary appurtenances,1805,2540,3.9,28,17408123,,bond
+3784,11,2010,SOUTHEASTERN LSD,49528,3904548,CLAR,"for general permanent improvements, including paying a portion of the local share of the school construction under the State of Ohio Classroom Facilities Assistance Program",343,1536,,25,,,combo
+3785,11,2010,SOUTHEASTERN LSD,49528,3904548,CLAR,paying the local share of school construction under the State of Ohio Classroom Facilities Assistance Program,343,1536,4.35,37,7983000,,combo
+3786,11,2010,ARCADIA LSD,47415,3904351,HANC,current operating expenses,494,944,,28,,,combo
+3787,11,2010,ARCADIA LSD,47415,3904351,HANC,to construct new school facilities & related facilities under the Ohio School Facilities Commission Classroom Facilities Assistance Program; to re11ate & improve existing facilities; to furnish & equip the same; to improve the sites thereof & acquire land as necessary in connection therewith,494,944,7.4,28,9250000,,combo
+3788,11,2010,ARLINGTON LSD,47423,3904351,HANC,current operating expenses,821,894,,100,,,combo
+3789,11,2010,ARLINGTON LSD,47423,3904351,HANC,to construct school facilities & re11ate existing school facilities under the Ohio School Facilities Commission Classroom Facilities Assistance Program; to furnish & equip the same & improve the sites thereof,821,894,6,37,7301094,,combo
+3790,11,2010,TORONTO CSD,44917,3901572,JEFF,"to pay the local share of cost to construct, furnish & equip a new middle/high school building under the State of Ohio Classroom Facilities Assistance Program & to construct, add to, furnish, equip & otherwise improve school district buildings & facilities & to clear, improve & equip their sites",1496,877,5.95,37,8200000,,combo
+3791,11,2010,TORONTO CSD,44917,3901572,JEFF,"to acquire, construct, enlarge, re11ate & finance general permanent improvements",1496,877,0.5,100,,,combo
+3792,11,2010,FORT RECOVERY LSD,48595,3904743,MERC,to pay the local share of school construction under the State of Ohio Classroom Assistance Program,618,1206,1.2,23,1467379,,combo
+3793,11,2010,FORT RECOVERY LSD,48595,3904743,MERC,"to pay the cost of locally funded initiatives, including equipment, furnishings & all necessary appurtenances thereto",618,1206,3.2,23,3878864,,combo
+3794,11,2010,FORT RECOVERY LSD,48595,3904743,MERC,to pay the cost of maintaining classroom facilities constructed with the proceeds of the previously issued bonds,618,1206,0.5,23,,,combo
+3795,11,2010,NOBLE LSD,48900,3904743,NOBL,to pay the local share of school construction under the State of Ohio Classroom Facilities Assistance Program,1089,1678,3.3,28,6925599,,combo
+3796,11,2010,NOBLE LSD,48900,3904743,NOBL,to pay the cost of maintaining the Classroom Facilities included in the project,1089,1678,0.5,23,,,combo
+3797,11,2010,NOBLE LSD,48900,3904743,NOBL,current expenses,1089,1678,4.52,100,,,combo
+3798,11,2010,GREEN LSD,50559,3904517,SCIO,current operating expenses,453,1045,,100,,,combo
+3799,11,2010,GREEN LSD,50559,3904517,SCIO,"to re11ate & improve existing facilities, including health & safety upgrades; to furnish & equip the same; improve the sites thereof & acquire land & interest in land",453,1045,9.5,28,1000000,,combo
+3800,11,2010,DALTON LSD,50542,3904517,WAYN,"to construct, re11ate, remodel, rehabilitate, add to, furnish, equip & otherwise improve school district buildings & facilities & acquire, clear & improve real estate for school district purposes",1229,1382,6,28,14750000,,combo
+3801,11,2010,DALTON LSD,50542,3904517,WAYN,"to acquire, construct, enlarge, re11ate & finance general permanent improvements",1229,1382,0.5,100,,,combo
+3802,8,2010,GREENVILLE CSD,44099,3904365,DARK,"to pay the local share of school construction under the State of Ohio Classroom Facilities Assistance Program & other improvements to school facilities, including construction of a new middle school building together with equipment, furnishings, building demolition & other site improvements & all necessary appurtenances thereto",2784,2827,2.9,37,24700000,,combo
+3803,8,2010,GREENVILLE CSD,44099,3904365,DARK,to maintain the classroom facilities included in the project,2784,2827,0.5,23,,,combo
+3804,8,2010,SOUTHERN LSD,49064,3904743,MEIG,"to construct school facilities, including facilities under the Ohio School Facilities Commission Classroom Facilities Assistance Program; to re11ate, improve & construct additions to existing school facilities, including improvements to school technology; to furnish & equip the same & landscape & improve the sites thereof",565,542,2.7,37,3950000,,combo
+3805,8,2010,SOUTHERN LSD,49064,3904743,MEIG,"to acquire, construct, enlarge, re11ate & finance general permanent improvements",565,542,0.5,100,,,combo
+3806,8,2010,COVINGTON EVSD,49999,3904517,MIAM,"to construct school facilities, including facilities under the Classroom Facilities Assistance Program of the Ohio School FacilitiesCommission; to furnish & equip the same to improve the sites thereof & acquire interests in land necessary in connection therewith",473,836,7,38,12561794,,combo
+3807,8,2010,COVINGTON EVSD,49999,3904517,MIAM,"to acquire, construct, enlarge, re11ate & finance general permanent improvements",473,836,2.5,100,,,combo
+3808,8,2010,MADISON LSD,49452,3904548,RICH,"to pay the local share of school construction under the State of Ohio Classroom Facilities Assistance program for a segmented project, including a new 5-8 school building, a cafeteria/auditorium & other improvements to school facilities, together with equipment, furnishings, landscaping & all necessary appurtenances thereto",2276,1557,3.7,37,25800161,,combo
+3809,8,2010,MADISON LSD,49452,3904548,RICH,to pay the cost of maintaining classroom facilities included in the project,2276,1557,0.5,23,,,combo
+3810,8,2010,SHELBY CSD,44776,3901572,RICH,"to construct, add to, re11ate, remodel, furnish, equip & otherwise improve school district buildings & facilities & improve & equip real estate for school purposes",2195,1948,4,35,17000000,,combo
+3811,8,2010,SHELBY CSD,44776,3901572,RICH,"to acquire, construct, enlarge, re11ate & finance general permanent improvements",2195,1948,1,100,,,combo
+3812,8,2010,NORTON CSD,44552,3904368,SUMM,"to construct, furnish, equip, add to, re11ate, remodel, rehabilitate & improve school district buildings & facilities, & to acquire, clear, improve & equip real estate for school purposes",1488,2150,4.6,37,27505239,,combo
+3813,8,2010,NORTON CSD,44552,3904368,SUMM,"to acquire, construct, enlarge re11ate & finance permanent improvements",1488,2150,2,100,,,combo
+3814,8,2010,WARREN LSD,50500,3904517,WASH,to construct school facilities & locally funded initiatives under the Classroom Facilities Assistance Program of the Ohio School Facilities Commission; to furnish & equip the same; improve the sites thereof & acquire land and interests in land as necessary,1633,2214,8.26,28,31820000,,combo
+3815,8,2010,WARREN LSD,50500,3904517,WASH,"to acquire, construct, enlarge re11ate & finance permanent improvements",1633,2214,0.5,100,,,combo
+3816,5,2010,LOUDONVILLE-PERRYSVILLE EVSD,50203,3904517,ASHL,"to construct school facilities & locally funded initiatives under the classroom facilities assistance program of the Ohio School Facilities Commission, to furnish & equip the same, improve the sites thereof & acquire interests in land necessary in connection therewith",1076,1798,6.56,38,22606841,,combo
+3817,5,2010,LOUDONVILLE-PERRYSVILLE EVSD,50203,3904517,ASHL,"to acquire, construct, enlarge re11ate & finance permanent improvements",1076,1798,1.5,100,,,combo
+3818,5,2010,COSHOCTON CSD,43828,3904365,COSH,"to construct, add to, re11ate, remodel, furnish, equip & otherwise improve school district buildings & facilities as 5 be required for participation in the State of Ohio Classroom Facilities Assistance Program & improving & equipping their sites",1540,1140,3.16,34,9445887,,combo
+3819,5,2010,COSHOCTON CSD,43828,3904365,COSH,"to acquire, construct, enlarge re11ate & finance permanent improvements",1540,1140,0.5,100,,,combo
+3820,5,2010,GREENVILLE CSD,44099,3904365,DARK,"to pay the local share of school construction under the State of Ohio Classroom facilities assistance program & other improvements to school facilities, including construction of a new middle school building, together with equipment, furnishings, building demolition & other site improvements & all necessary appurtenances thereto",2717,3406,2.9,37,24700000,,combo
+3821,5,2010,GREENVILLE CSD,44099,3904365,DARK,to pay the cost of maintaining classroom facilities included in the project,2717,3406,0.5,23,,,combo
+3822,5,2010,MARIEMONT CSD,45476,3904504,HAMI,"for new construction, additions, re11ations & improvements to school facilities & providing equipment, furnishings & site improvements therefor ",1952,1239,5.28,37,39800000,,combo
+3823,5,2010,MARIEMONT CSD,45476,3904504,HAMI,current operating expenses,1952,1239,5.15,100,,,combo
+3824,5,2010,PRINCETON CSD,44677,3901572,HAMI,"for new construction, improvements, re11ations & additions to school facilities & providing equipment, furnishings & site improvements therefor, including but not limited to technology, security systems, meeting areas for community organizations, science laboratories, classrooms designed for special needs students & for capitalized interest in connection with notes or bonds",5747,4075,3.52,37,120000000,,combo
+3825,5,2010,PRINCETON CSD,44677,3901572,HAMI,current operating expenses,5747,4075,1.49,100,,,combo
+3826,5,2010,THREE RIVERS LSD,47399,3904351,HAMI,"to construct, add, re11ate & improve school facilities, land acquisition & providing equipment, furnishings & site improvements therefor",2905,2790,4.47,37,37145000,,combo
+3827,5,2010,THREE RIVERS LSD,47399,3904351,HAMI,to maintain the classroom facilities included in the project,2905,2790,0.5,23,,,combo
+3828,5,2010,BUCKEYE LSD,48470,3904743,JEFF,"to construct school facilities & re11ate, improve & construct additions to school facilities under the Classroom Facilities Assistance Program of the Ohio School Facilities Commission; to furnish & equip the same, improve the sites thereof & acquire land & interests in land as necessary in connection therewith",1963,2727,4.7,37,26000000,,combo
+3829,5,2010,BUCKEYE LSD,48470,3904743,JEFF,"to acquire, construct, enlarge re11ate & finance permanent improvements",1963,2727,1.5,100,,,combo
+3830,5,2010,MADISON LSD,49452,3904548,LAKE,"to pay the local share of school construction under the State of Ohio Classroom Facilities Assistance Program together with as applicable, new construction, re11ations & other improvements to school facilities, equipment, furnishings, site improvements & all necessary appurtenances",2409,2015,2.83,37,21857274,,combo
+3831,5,2010,MADISON LSD,49452,3904548,LAKE,to maintain the classroom facilities included in the project,2409,2015,0.5,23,,,combo
+3832,5,2010,NORTHRIDGE LSD,48033,3904743,LICK,to construct school facilities & locally funded initiatives under the Exceptional Needs Program of the Ohio School Facilities Commission; to furnish & equip the same; improve the sites thereof & acquire interests in land necessary in connection therewith,720,2254,3.99,37,17950000,,combo
+3833,5,2010,NORTHRIDGE LSD,48033,3904743,LICK,"to acquire, construct, enlarge re11ate & finance permanent improvements",720,2254,1,100,,,combo
+3834,5,2010,COLUMBIA LSD,48140,3904743,LORA,"to construct, re11ate, remodel, add to, furnish, equip & otherwise improve school district buildings & facilities, & improving & equipping sites for such buildings & facilities",925,1073,1.85,28,6000000,,combo
+3835,5,2010,COLUMBIA LSD,48140,3904743,LORA,"to acquire, construct, enlarge re11ate & finance permanent improvements",925,1073,1.25,5,,,combo
+3836,5,2010,AUSTINTOWN LSD,48298,3904743,MAHO,to pay the local share of school construction under the State of Ohio Classroom Facilities Assistance Program,4827,3792,2.4,37,26682099,,combo
+3837,5,2010,AUSTINTOWN LSD,48298,3904743,MAHO,to maintain the classroom facilities included in the project,4827,3792,0.5,23,,,combo
+3838,5,2010,SOUTHERN LSD,49064,3904743,MEIG,"to construct school facilities, including facilities under the Ohio School Facilities Commission Classroom Facilities Assistance Program, to re11ate, improve & construct additions to existing school facilities, including improvements to school technology; to furnish & equip the same & landscaping & improving the sites thereof",341,425,2.7,37,3950000,,combo
+3839,5,2010,SOUTHERN LSD,49064,3904743,MEIG,"to acquire, construct, enlarge re11ate & finance permanent improvements",341,425,0.5,100,,,combo
+3840,5,2010,NOBLE LSD,48900,3904743,NOBL,"to pay the local share of school construction under the State of Ohio Classroom Facilities Assistance Program, together with other improvements to school facilities",821,992,3.97,28,8332707,,combo
+3841,5,2010,NOBLE LSD,48900,3904743,NOBL,to maintain the classroom facilities included in the project,821,992,0.5,23,,,combo
+3842,5,2010,NOBLE LSD,48900,3904743,NOBL,current expenses,821,992,3.52,100,,,combo
+3843,5,2010,EATON COMMUNITY CSD,43935,3904365,PREB,"to pay the local share of school construction under the State of Ohio Classroom Facilities Assistance Program (including construction of a new elementary school building & a new middle school building) & other improvements to school facilities, including technology & site improvements, together with equipment, furnishings, landscaping & all necessary appurtenances thereto",1831,1696,1.4,28,6850000,,combo
+3844,5,2010,EATON COMMUNITY CSD,43935,3904365,PREB,to maintain the classroom facilities included in the project,1831,1696,0.5,23,,,combo
+3845,5,2010,TWIN VALLEY COMMUNITY LSD,49296,3904548,PREB,to pay the local share of school construction under the State of Ohio Classroom Facilities Assistance Program,553,727,1.6,28,2936146,,combo
+3846,5,2010,TWIN VALLEY COMMUNITY LSD,49296,3904548,PREB,to maintain the classroom facilities included in the project,553,727,0.5,23,,,combo
+3847,5,2010,MADISON LSD,49452,3904548,RICH,"to pay the local share of school construction under the State of Ohio Classroom Facilities Assistance Program for a segmented project (including construction of a new 5-8 School building), a cafeteria/auditorium & other improvements to school facilities, together with equipment, furnishings, landscaping & all necessary appurtenances thereto",2042,2084,3.7,37,25800161,,combo
+3848,5,2010,MADISON LSD,49452,3904548,RICH,to maintain the classroom facilities included in the project,2042,2084,0.5,23,,,combo
+3849,5,2010,SHELBY CSD,44776,3901572,RICH,"to construct, add to, re11ate, remodel, furnish, equip, & otherwise improve school district buildings & facilities & improving & equipping real estate for school purposes",1738,1822,4,35,17000000,,combo
+3850,5,2010,SHELBY CSD,44776,3901572,RICH,"to acquire, construct, enlarge re11ate & finance permanent improvements",1738,1822,1,100,,,combo
+3851,5,2010,HOPEWELL-LOUDON LSD,49700,3904548,SENE,current expenses,972,865,,38,,,combo
+3852,5,2010,HOPEWELL-LOUDON LSD,49700,3904548,SENE,to construct school facilities & locally funded initiatives under the Classroom Facilities Assistance Program of the Ohio School Facilities Commission; to furnish & equip the same; to improve the sites thereof & acquire interests in land in connection therewith,972,865,5.88,38,10975000,,combo
+3853,5,2010,OLD FORT LSD,49726,3904548,SENE,to construct school facilities under the Classroom Facilities Assistance Program of the Ohio School Facilities Commission with related facilities & local initiatives; to furnish & equip the same & improve the sites thereof,303,482,6.28,38,5357728,,combo
+3854,5,2010,OLD FORT LSD,49726,3904548,SENE,"to acquire, construct, enlarge re11ate & finance permanent improvements",303,482,0.5,100,,,combo
+3855,5,2010,NORTON CSD,44552,3904368,SUMM,"to construct, furnish, equip, add to, re11ate, remodel, rehabilitate & improve school district buildings & facilities, & acquire, clear, improve & equip real estate for school purposes",1713,2090,4.6,37,27505239,,combo
+3856,5,2010,NORTON CSD,44552,3904368,SUMM,"to acquire, construct, enlarge re11ate & finance permanent improvements",1713,2090,2,100,,,combo
+3857,5,2010,SPRINGFIELD LSD,50062,3904517,SUMM,to pay the local share of school construction under the State of Ohio Classroom Facilities Assistance Program,2343,1938,4.38,38,33725000,,combo
+3858,5,2010,SPRINGFIELD LSD,50062,3904517,SUMM,to maintain the classroom facilities included in the project,2343,1938,0.5,23,,,combo
+3859,5,2010,WARREN LSD,50500,3904517,WASH,"to construct school facilities & locally funded initiatives under the Classroom Facilities Assistance Program of the Ohio School Facilities Commission, to furnish & equip the same, improve the sites thereof & acquire interests in land as necessary",1347,1926,8.26,28,31820000,,combo
+3860,5,2010,WARREN LSD,50500,3904517,WASH,"to acquire, construct, enlarge re11ate & finance permanent improvements",1347,1926,0.5,100,,,combo
+3861,2,2010,NORTHEASTERN LSD,46722,3904414,CLAR,"for general permanent improvements, including paying for locally funded initiatives for the District's classroom facilities project",2253,3505,,37,,,combo
+3862,2,2010,NORTHEASTERN LSD,46722,3904414,CLAR,to pay the local share of school construction under the State of Ohio Classroom Facilities Assistance program,2253,3505,7.572,37,65844040,,combo
+3863,2,2010,GREENVILLE CSD,44099,3904365,DARK,"to pay the local share of school construction under the State of Ohio Classroom Facilities Assistance Program & other improvements to school facilities, including construction of a new middle school building, together with equipment, furnishings, building appurtenances thereto",2279,2948,2.89,37,24700000,,combo
+3864,2,2010,GREENVILLE CSD,44099,3904365,DARK,to maintain the classroom facilities included in the project,2279,2948,0.5,23,,,combo
+3865,11,2011,WYNFORD LSD,46524,3904414,CRAW,to construct school facilities & re11ate & improve existing facilities under the Classroom Facilities Assistance Program of the Ohio School Facilities Commission & locally funded initiative; to furnish & equip the same & improve the sites therefor,996,1670,3.75,37,9380000,,combo
+3866,11,2011,WYNFORD LSD,46524,3904414,CRAW,"to acquire, construct, enlarge, re11ate & finance general permanent improvements",996,1670,0.5,,,,combo
+3867,11,2011,GREENVILLE CSD,44099,3904365,DARK,"to pay the local share of school construction under the State of Ohio Classroom Facilities Assistance Program for a segmented project (including construction of a new K-8 elementary/middle school building), demolition of certain existing school buildings & other improvements to school facilities, together with equipment, furnishings, landscaping & all necessary appurtenances thereto",3635,4261,6.43,28,45000000,,combo
+3868,11,2011,GREENVILLE CSD,44099,3904365,DARK,"for permanent improvements, including paying the cost of maintaining the Classroom Facilities included in the project",3635,4261,,100,,,combo
+3869,11,2011,LANCASTER CSD,44206,3904368,FAIR,to construct school facilities & re11ating existing facilities under the Exceptional Needs Program of the Ohio School Facilities Commission & locally funded initiatives; to furnish & equip the same; to improve the sites thereof,5931,8044,3.6,37,61550000,,combo
+3870,11,2011,LANCASTER CSD,44206,3904368,FAIR,"to acquire, construct, enlarge, re11ate & finance general permanent improvements",5931,8044,0.5,100,,,combo
+3871,11,2011,DUBLIN CSD,47027,3904414,FRAN,"to expand, re11ate, repair, improve & maintain existing school buildings & facilities; replace & refurbish existing equipment & upgrading & improving technology & building security enhancements district-wide",11674,13004,0.77,15,25000000,,combo
+3872,11,2011,DUBLIN CSD,47027,3904414,FRAN,current operating expenses,11674,13004,7.2,100,,,combo
+3873,11,2011,NORTHWEST LSD,49908,3904517,HAMI,"for new construction, improvements, re11ations, & additions to school facilities & providing equipment, furnishings & site improvements therefor",9843,15582,1.57,37,44000000,,combo
+3874,11,2011,NORTHWEST LSD,49908,3904517,HAMI,current operating expenses,9843,15582,3.5,100,,,combo
+3875,11,2011,KENTON CSD,44172,3904368,HARD,to construct school facilities under the Classroom Facilities Assistance Program of the Ohio School Facilities commission & locally funded initiatives; furnish & equip the same; improve the site thereof,1915,1679,4.35,28,13605000,,combo
+3876,11,2011,KENTON CSD,44172,3904368,HARD,"to acquire, construct, enlarge, re11ate & finance general permanent improvements",1915,1679,0.5,100,,,combo
+3877,11,2011,PIQUA CSD,44644,3901572,MIAM,to pay the local share of school construction under the State of Ohio Classroom Facilities Assistance Program,3745,3258,4.42,30,29086686,,combo
+3878,11,2011,PIQUA CSD,44644,3901572,MIAM,to maintain the classroom facilities included in the project,3745,3258,0.5,23,,,combo
+3879,11,2011,NORTHMONT CSD,48728,3904743,MONT,"to pay the local share of school construction under the State of Ohio Classroom Facilities Assistance Program & other improvements, re11ations & additions to school facilities, & providing equipment, furnishings & site improvements therefor",7233,6318,4.2,38,54996707,,combo
+3880,11,2011,NORTHMONT CSD,48728,3904743,MONT,"to acquire, construct, enlarge, re11ate & finance general permanent improvements",7233,6318,1.7,100,,,combo
+3881,11,2011,WOODMORE LSD,49577,3904548,SAND,"to construct, add to, re11ate, remodel, furnish, equip & otherwise improve school district buildings & facilities, including constructing, furnishing & equipping a new elementary/middle school building as 5 be required for participation in the State of Ohio Exceptional Needs School Facilities Assistance Program, & to acquire, improve, clear & equip the sites thereof",1365,1622,6.95,37,19500000,,combo
+3882,11,2011,WOODMORE LSD,49577,3904548,SAND,"to acquire, construct, enlarge, re11ate & finance general permanent improvements",1365,1622,0.5,100,,,combo
+3883,11,2011,BOTKINS LSD,49767,3904548,SHEL,"to pay the local share of school construction under the State of Ohio Classroom facilities Assistance Program, together with land acquisition & the cost of locally funded initiatives",613,520,7.99,35,6954389,,combo
+3884,11,2011,BOTKINS LSD,49767,3904548,SHEL,to maintain the classroom facilities included in the project,613,520,0.5,23,,,combo
+3885,11,2011,LAKE LSD,50690,3904517,STAR,"to construct, add to, re11ate, remodel, furnish, equip & otherwise improve school district buildings & facilities & to acquire, improve & equip real estate for school purposes",3665,4307,1.8,28,12781563,,combo
+3886,11,2011,LAKE LSD,50690,3904517,STAR,"to acquire, construct, enlarge, re11ate & finance general permanent improvements",3665,4307,0.5,100,,,combo
+3887,11,2011,WEATHERSFIELD LSD,50252,3904517,TRUM,"to construct, add to, re11ate, remodel, furnish, equip & otherwise improve school district buildings & facilities, including expanding & improving facilities including expanding & improving facilities as 5 be required for participation in the State of Ohio Classroom Facilities Assistance Program & to acquire, improve, clear & equip the sites thereof",992,1008,6.6,30,9056940,,combo
+3888,11,2011,WEATHERSFIELD LSD,50252,3904517,TRUM,"to acquire, construct, enlarge, re11ate & finance general permanent improvements",992,1008,1,100,,,combo
+3889,11,2011,DOVER CSD,43893,3904365,TUSC,"to construct, furnish, equip and otherwise improve a new high school building as 5 be required for participation in the State of Ohio Exceptional Needs School Facilities Assistance Program, & otherwise improve school district buildings & facilities; to acquire, improve, clear & equip the sites thereof",2048,5024,6.4,33,37900000,,combo
+3890,11,2011,DOVER CSD,43893,3904365,TUSC,"to acquire, construct, enlarge, re11ate & finance general permanent improvements",2048,5024,0.5,,,,combo
+3891,11,2011,CARLISLE LSD,50419,3904517,WARR,"to pay the local share of school construction under the State of Ohio Classroom Facilities Assistance Program & other improvements, re11ating & additions to school facilities, & to provide equipment, furnishings & site improvements therefor",1462,2019,8.53,37,28045667,,combo
+3892,11,2011,CARLISLE LSD,50419,3904517,WARR,current expenses,1462,2019,,100,,,combo
+3893,11,2011,WARREN LSD,50500,3904517,WASH,to construct school facilities & re11ate & improve existing facilities under the Classroom Facilities Assistance Program of the Ohio School Facilities Commission or as locally funder initiatives; to furnish & equip the same; improve the sites thereof & acquire land & interests in land as necessary,2282,3623,5.4,28,21000000,,combo
+3894,11,2011,WARREN LSD,50500,3904517,WASH,"to acquire, construct, enlarge, re11ate & finance general permanent improvements",2282,3623,0.5,100,,,combo
+3895,8,2011,ASHLAND CSD,43505,3904349,ASHL,"to construct, add to, re11ate, remodel, furnish, equip and otherwise improve school district buildings & facilities & acquire, clear, improve & equip their sites",2402,3233,4.24,37,40000000,,combo
+3896,8,2011,ASHLAND CSD,43505,3904349,ASHL,general permanent improvements,2402,3233,0.5,100,,,combo
+3897,5,2011,ASHLAND CSD,43505,3904349,ASHL,"to construct, add to, re11ate, remodel, furnish, equip and otherwise improve school district buildings & facilities & acquire, clear, improve & equip their sites",2892,3613,4.24,37,40000000,,combo
+3898,5,2011,ASHLAND CSD,43505,3904349,ASHL,general permanent improvements,2892,3613,0.5,100,,,combo
+3899,5,2011,OLENTANGY LSD,46763,3904414,DELA,"to construct, furnish & equip new school facilities, with related site improvements & appurtenances thereto; to re11ate, repair, improve, furnish, equip & construct additions to existing school facilities, buildings & infrastructure; replace existing equipment & construct various permanent improvements; purchase school buses & related transportation equipment; curriculum implementation district-wide, including related textbooks & technology; to acquire land & interests in land",9643,8461,0.5,30,24400000,,combo
+3900,5,2011,OLENTANGY LSD,46763,3904414,DELA,current operating expenses,9643,8461,7.9,100,,,combo
+3901,5,2011,ARLINGTON LSD,47423,3904351,HANC,to construct school facilities & re11ate existing school facilities under the Ohio School Facilities Commission Classroom Facilities Assistance program; to furnish & equip the same & improve the sites,754,916,5.5,37,7301094,,combo
+3902,5,2011,ARLINGTON LSD,47423,3904351,HANC,current operating expenses,754,916,,100,,,combo
+3903,5,2011,KENTON CSD,44172,3904368,HARD,to construct school facilities under the State of Ohio Classroom Facilities Assistance Program of the Ohio School Facilities Commission & locally funded initiatives; to furnish & equip the same & improve the sites thereof,934,1235,4.29,28,13700000,,combo
+3904,5,2011,KENTON CSD,44172,3904368,HARD,"to acquire, construct, enlarge, re11ate & finance general permanent improvements",934,1235,0.5,100,,,combo
+3905,5,2011,RIDGEMONT LSD,47506,3904743,HARD,to construct school facilities under the State of Ohio Classroom Facilities Assistance Program of the Ohio School Facilities Commission & locally funded initiatives; to furnish & equip the same & improve the sites thereof,488,506,6.17,38,7169896,,combo
+3906,5,2011,RIDGEMONT LSD,47506,3904743,HARD,"to acquire, construct, enlarge, re11ate & finance general permanent improvements",488,506,0.5,100,,,combo
+3907,5,2011,WILLARD CSD,45096,3904504,HURO,current operating expenses,1254,972,,100,,,combo
+3908,5,2011,WILLARD CSD,45096,3904504,HURO,to construct school facilities under the State of Ohio Classroom Facilities Assistance Program & related facilities; re11ate & improve existing facilities; furnish & equip the same; improve the sites thereof & acquire land & interests in land,1254,972,3,23,10500000,,combo
+3909,5,2011,AMHERST EVSD,46847,3904414,LORA,"to construct, furnish & equip a new elementary school & construct, add to, re11ate, remodel, furnish, equip & otherwise improve school district buildings & facilities, including school district recreational facilities & to acquire, clear, improve & equip their sites",2674,3562,2.3,37,26000000,,combo
+3910,5,2011,AMHERST EVSD,46847,3904414,LORA,"to acquire, construct, enlarge, re11ate & finance general permanent improvements",2674,3562,0.5,100,,,combo
+3911,5,2011,AMHERST EVSD,46847,3904414,LORA,current operating expenses,2674,3562,3.95,5,,,combo
+3912,5,2011,LAKE LSD,50690,3904517,STAR,"to construct, add to, re11ate, remodel, furnish, equip & otherwise improve school district buildings & facilities & to acquire, improve & equip real estate for school purposes",2485,2652,1.8,28,12282943,,combo
+3913,5,2011,LAKE LSD,50690,3904517,STAR,"to acquire, construct, enlarge, re11ate & finance general permanent improvements",2485,2652,0.5,100,,,combo
+3914,5,2011,WARREN LSD,50500,3904517,WASH,to construct school facilities & locally funded initiatives under the Classroom Facilities Assistance Program of the Ohio School Facilities Commission; to furnish & equip the same; improve their sites thereof; & acquire land & interests in land as necessary,3049,3057,8.19,28,31820000,,combo
+3915,5,2011,WARREN LSD,50500,3904517,WASH,"to acquire, construct, enlarge, re11ate & finance general permanent improvements",3049,3057,0.5,100,,,combo
+3916,5,2011,DALTON LSD,50542,3904517,WAYN,"to construct, re11ate, remodel, rehabilitate, add to, furnish, equip & otherwise improve school district buildings & facilities & acquire, clear & improve real estate for school district purposes",1141,829,6,28,14750000,,combo
+3917,5,2011,DALTON LSD,50542,3904517,WAYN,"to acquire, construct, enlarge, re11ate & finance general permanent improvements",1141,829,0.5,100,,,combo
+3918,2,2011,WARREN LSD,50500,3904517,WASH,to construct school facilities & locally funded initiatives under the Classroom Facilities Assistance Program of the Ohio School Facilities Commission; to furnish & equip the same; improve their sites thereof; & acquire land & interests in land as necessary,2194,2344,8.26,28,31820000,,combo
+3919,2,2011,WARREN LSD,50500,3904517,WASH,"to acquire, construct, enlarge, re11ate & finance general permanent improvements",2194,2344,0.5,100,,,combo
